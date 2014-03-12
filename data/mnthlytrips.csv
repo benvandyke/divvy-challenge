@@ -1,0 +1,1661 @@
+from_station_name,mth,mthlytrips
+900 W Harrison,8,285
+900 W Harrison,9,489
+900 W Harrison,10,437
+900 W Harrison,11,276
+900 W Harrison,12,129
+Aberdeen St & Jackson Blvd,6,28
+Aberdeen St & Jackson Blvd,7,564
+Aberdeen St & Jackson Blvd,8,613
+Aberdeen St & Jackson Blvd,9,552
+Aberdeen St & Jackson Blvd,10,508
+Aberdeen St & Jackson Blvd,11,319
+Aberdeen St & Jackson Blvd,12,190
+Aberdeen St & Madison St,6,28
+Aberdeen St & Madison St,7,751
+Aberdeen St & Madison St,8,935
+Aberdeen St & Madison St,9,929
+Aberdeen St & Madison St,10,846
+Aberdeen St & Madison St,11,440
+Aberdeen St & Madison St,12,246
+Ada St & Washington Blvd,10,197
+Ada St & Washington Blvd,11,213
+Ada St & Washington Blvd,12,147
+Adler Planetarium,6,6
+Adler Planetarium,7,36
+Adler Planetarium,8,47
+Adler Planetarium,9,9
+Adler Planetarium,10,653
+Adler Planetarium,11,357
+Adler Planetarium,12,73
+Ashland Ave & 13th St,9,38
+Ashland Ave & 13th St,10,84
+Ashland Ave & 13th St,11,38
+Ashland Ave & 13th St,12,12
+Ashland Ave & 21st St,8,25
+Ashland Ave & 21st St,9,63
+Ashland Ave & 21st St,10,40
+Ashland Ave & 21st St,11,7
+Ashland Ave & 21st St,12,8
+Ashland Ave & Armitage Ave,6,20
+Ashland Ave & Armitage Ave,7,336
+Ashland Ave & Armitage Ave,8,844
+Ashland Ave & Armitage Ave,9,821
+Ashland Ave & Armitage Ave,10,860
+Ashland Ave & Armitage Ave,11,549
+Ashland Ave & Armitage Ave,12,322
+Ashland Ave & Augusta Blvd,6,27
+Ashland Ave & Augusta Blvd,7,404
+Ashland Ave & Augusta Blvd,8,526
+Ashland Ave & Augusta Blvd,9,485
+Ashland Ave & Augusta Blvd,10,405
+Ashland Ave & Augusta Blvd,11,164
+Ashland Ave & Augusta Blvd,12,71
+Ashland Ave & Belle Plaine Ave,8,34
+Ashland Ave & Belle Plaine Ave,9,227
+Ashland Ave & Belle Plaine Ave,10,143
+Ashland Ave & Belle Plaine Ave,11,86
+Ashland Ave & Belle Plaine Ave,12,46
+Ashland Ave & Blackhawk St,9,33
+Ashland Ave & Blackhawk St,10,282
+Ashland Ave & Blackhawk St,11,118
+Ashland Ave & Blackhawk St,12,59
+Ashland Ave & Chicago Ave,6,26
+Ashland Ave & Chicago Ave,7,454
+Ashland Ave & Chicago Ave,8,214
+Ashland Ave & Chicago Ave,9,64
+Ashland Ave & Chicago Ave,10,52
+Ashland Ave & Chicago Ave,11,147
+Ashland Ave & Chicago Ave,12,78
+Ashland Ave & Division St,8,461
+Ashland Ave & Division St,9,959
+Ashland Ave & Division St,10,750
+Ashland Ave & Division St,11,387
+Ashland Ave & Division St,12,214
+Ashland Ave & Grace St,7,1
+Ashland Ave & Grace St,10,71
+Ashland Ave & Grace St,11,104
+Ashland Ave & Grace St,12,68
+Ashland Ave & Grand Ave,9,136
+Ashland Ave & Grand Ave,10,167
+Ashland Ave & Grand Ave,11,113
+Ashland Ave & Grand Ave,12,67
+Ashland Ave & Lake St,7,14
+Ashland Ave & Lake St,8,262
+Ashland Ave & Lake St,9,250
+Ashland Ave & Lake St,10,182
+Ashland Ave & Lake St,11,118
+Ashland Ave & Lake St,12,51
+Ashland Ave & Wellington Ave,6,1
+Ashland Ave & Wellington Ave,7,299
+Ashland Ave & Wellington Ave,8,477
+Ashland Ave & Wellington Ave,9,249
+Ashland Ave & Wellington Ave,10,193
+Ashland Ave & Wellington Ave,11,98
+Ashland Ave & Wellington Ave,12,35
+Ashland Ave & Wrightwood Ave,6,2
+Ashland Ave & Wrightwood Ave,7,68
+Ashland Ave & Wrightwood Ave,8,309
+Ashland Ave & Wrightwood Ave,9,332
+Ashland Ave & Wrightwood Ave,10,213
+Ashland Ave & Wrightwood Ave,11,143
+Ashland Ave & Wrightwood Ave,12,38
+Bissell St & Armitage Ave,9,642
+Bissell St & Armitage Ave,10,525
+Bissell St & Armitage Ave,11,282
+Bissell St & Armitage Ave,12,149
+Blackstone Ave & Hyde Park Blvd,6,4
+Blackstone Ave & Hyde Park Blvd,7,74
+Blackstone Ave & Hyde Park Blvd,8,146
+Blackstone Ave & Hyde Park Blvd,9,318
+Blackstone Ave & Hyde Park Blvd,10,210
+Blackstone Ave & Hyde Park Blvd,11,79
+Blackstone Ave & Hyde Park Blvd,12,25
+Blue Island Ave & 18th St,7,60
+Blue Island Ave & 18th St,8,317
+Blue Island Ave & 18th St,9,304
+Blue Island Ave & 18th St,10,249
+Blue Island Ave & 18th St,11,163
+Blue Island Ave & 18th St,12,69
+Broadway & Argyle St,9,102
+Broadway & Argyle St,10,215
+Broadway & Argyle St,11,91
+Broadway & Argyle St,12,40
+Broadway & Barry Ave,6,1
+Broadway & Barry Ave,7,19
+Broadway & Barry Ave,8,60
+Broadway & Barry Ave,9,386
+Broadway & Barry Ave,10,672
+Broadway & Barry Ave,11,335
+Broadway & Barry Ave,12,124
+Broadway & Belmont Ave,9,151
+Broadway & Belmont Ave,10,390
+Broadway & Belmont Ave,11,266
+Broadway & Belmont Ave,12,133
+Broadway & Berwyn Ave,9,188
+Broadway & Berwyn Ave,10,325
+Broadway & Berwyn Ave,11,107
+Broadway & Berwyn Ave,12,35
+Broadway & Cornelia Ave,9,253
+Broadway & Cornelia Ave,10,511
+Broadway & Cornelia Ave,11,271
+Broadway & Cornelia Ave,12,105
+Broadway & Sheridan Rd,9,336
+Broadway & Sheridan Rd,10,276
+Broadway & Sheridan Rd,11,124
+Broadway & Sheridan Rd,12,70
+Broadway & Wilson Ave,9,112
+Broadway & Wilson Ave,10,213
+Broadway & Wilson Ave,11,124
+Broadway & Wilson Ave,12,47
+California Ave & 21st St,6,3
+California Ave & 21st St,7,113
+California Ave & 21st St,8,111
+California Ave & 21st St,10,22
+California Ave & 21st St,11,23
+California Ave & 21st St,12,9
+California Ave & Division St,8,164
+California Ave & Division St,9,449
+California Ave & Division St,10,230
+California Ave & Division St,11,105
+California Ave & Division St,12,32
+California Ave & Francis Pl,9,148
+California Ave & Francis Pl,10,199
+California Ave & Francis Pl,11,115
+California Ave & Francis Pl,12,65
+California Ave & Milwaukee Ave,7,84
+California Ave & Milwaukee Ave,8,792
+California Ave & Milwaukee Ave,9,790
+California Ave & Milwaukee Ave,10,575
+California Ave & Milwaukee Ave,11,307
+California Ave & Milwaukee Ave,12,182
+California Ave & North Ave,9,146
+California Ave & North Ave,10,218
+California Ave & North Ave,11,118
+California Ave & North Ave,12,94
+Calumet Ave & 18th St,9,223
+Calumet Ave & 18th St,10,632
+Calumet Ave & 18th St,11,304
+Calumet Ave & 18th St,12,173
+Calumet Ave & 33rd St,6,5
+Calumet Ave & 33rd St,7,57
+Calumet Ave & 33rd St,8,286
+Calumet Ave & 33rd St,9,211
+Calumet Ave & 33rd St,10,124
+Calumet Ave & 33rd St,11,54
+Calumet Ave & 33rd St,12,27
+Calumet Ave & 35th St,10,13
+Calumet Ave & 35th St,11,15
+Calumet Ave & 35th St,12,5
+Campbell Ave & North Ave,7,26
+Campbell Ave & North Ave,8,261
+Campbell Ave & North Ave,9,229
+Campbell Ave & North Ave,10,120
+Campbell Ave & North Ave,11,46
+Campbell Ave & North Ave,12,24
+Canal St & Adams St,7,14
+Canal St & Adams St,8,958
+Canal St & Adams St,9,1572
+Canal St & Adams St,10,1855
+Canal St & Adams St,11,1239
+Canal St & Adams St,12,797
+Canal St & Harrison St,7,71
+Canal St & Harrison St,8,336
+Canal St & Harrison St,9,452
+Canal St & Harrison St,10,360
+Canal St & Harrison St,11,140
+Canal St & Harrison St,12,74
+Canal St & Jackson Blvd,6,53
+Canal St & Jackson Blvd,7,1380
+Canal St & Jackson Blvd,8,2261
+Canal St & Jackson Blvd,9,2471
+Canal St & Jackson Blvd,10,2081
+Canal St & Jackson Blvd,11,1219
+Canal St & Jackson Blvd,12,676
+Canal St & Madison St,7,69
+Canal St & Madison St,8,1378
+Canal St & Madison St,9,1986
+Canal St & Madison St,10,2252
+Canal St & Madison St,11,1429
+Canal St & Madison St,12,914
+Canal St & Monroe St,8,755
+Canal St & Monroe St,9,1145
+Canal St & Monroe St,10,1179
+Canal St & Monroe St,11,666
+Canal St & Monroe St,12,445
+Cannon Dr & Fullerton Ave,6,105
+Cannon Dr & Fullerton Ave,7,1866
+Cannon Dr & Fullerton Ave,8,2020
+Cannon Dr & Fullerton Ave,9,1496
+Cannon Dr & Fullerton Ave,10,433
+Cannon Dr & Fullerton Ave,11,199
+Cannon Dr & Fullerton Ave,12,63
+Carpenter St & Huron St,6,5
+Carpenter St & Huron St,7,240
+Carpenter St & Huron St,8,374
+Carpenter St & Huron St,9,381
+Carpenter St & Huron St,10,284
+Carpenter St & Huron St,11,166
+Carpenter St & Huron St,12,102
+Cityfront Plaza & N Water St,8,587
+Cityfront Plaza & N Water St,9,974
+Cityfront Plaza & N Water St,10,1037
+Cityfront Plaza & N Water St,11,482
+Cityfront Plaza & N Water St,12,178
+Claremont Ave & Hirsch St,7,15
+Claremont Ave & Hirsch St,8,180
+Claremont Ave & Hirsch St,9,181
+Claremont Ave & Hirsch St,10,130
+Claremont Ave & Hirsch St,11,84
+Claremont Ave & Hirsch St,12,25
+Clarendon Ave & Gordon Ter,6,1
+Clarendon Ave & Gordon Ter,7,27
+Clarendon Ave & Gordon Ter,9,111
+Clarendon Ave & Gordon Ter,10,21
+Clarendon Ave & Gordon Ter,11,14
+Clarendon Ave & Gordon Ter,12,44
+Clarendon Ave & Junior Ter,8,24
+Clarendon Ave & Junior Ter,9,359
+Clarendon Ave & Junior Ter,10,409
+Clarendon Ave & Junior Ter,11,192
+Clarendon Ave & Junior Ter,12,66
+Clarendon Ave & Leland Ave,6,17
+Clarendon Ave & Leland Ave,7,64
+Clarendon Ave & Leland Ave,8,75
+Clarendon Ave & Leland Ave,9,463
+Clarendon Ave & Leland Ave,10,219
+Clarendon Ave & Leland Ave,11,107
+Clarendon Ave & Leland Ave,12,38
+Clark St & Chicago Ave,9,78
+Clark St & Chicago Ave,10,587
+Clark St & Chicago Ave,11,253
+Clark St & Chicago Ave,12,127
+Clark St & Congress Pkwy,6,15
+Clark St & Congress Pkwy,7,687
+Clark St & Congress Pkwy,8,1227
+Clark St & Congress Pkwy,9,1228
+Clark St & Congress Pkwy,10,1013
+Clark St & Congress Pkwy,11,547
+Clark St & Congress Pkwy,12,338
+Clark St & Elm St,8,1499
+Clark St & Elm St,9,1887
+Clark St & Elm St,10,1465
+Clark St & Elm St,11,676
+Clark St & Elm St,12,319
+Clark St & Leland Ave,9,29
+Clark St & Leland Ave,10,251
+Clark St & Leland Ave,11,144
+Clark St & Leland Ave,12,64
+Clark St & Lincoln Ave,7,25
+Clark St & Lincoln Ave,8,1191
+Clark St & Lincoln Ave,9,1870
+Clark St & Lincoln Ave,10,1134
+Clark St & Lincoln Ave,11,485
+Clark St & Lincoln Ave,12,159
+Clark St & Montrose Ave,8,135
+Clark St & Montrose Ave,9,353
+Clark St & Montrose Ave,10,229
+Clark St & Montrose Ave,11,125
+Clark St & Montrose Ave,12,72
+Clark St & North Ave,7,99
+Clark St & North Ave,8,3156
+Clark St & North Ave,9,2084
+Clark St & North Ave,10,907
+Clark St & North Ave,11,340
+Clark St & North Ave,12,101
+Clark St & Randolph St,6,84
+Clark St & Randolph St,7,1173
+Clark St & Randolph St,8,1578
+Clark St & Randolph St,9,1810
+Clark St & Randolph St,10,1536
+Clark St & Randolph St,11,708
+Clark St & Randolph St,12,391
+Clark St & Schiller St,9,328
+Clark St & Schiller St,10,806
+Clark St & Schiller St,11,437
+Clark St & Schiller St,12,194
+Clark St & Waveland Ave,6,2
+Clark St & Waveland Ave,7,28
+Clark St & Waveland Ave,8,934
+Clark St & Waveland Ave,9,822
+Clark St & Waveland Ave,10,490
+Clark St & Waveland Ave,11,146
+Clark St & Waveland Ave,12,70
+Clark St & Wellington Ave,8,799
+Clark St & Wellington Ave,9,1117
+Clark St & Wellington Ave,10,639
+Clark St & Wellington Ave,11,349
+Clark St & Wellington Ave,12,176
+Clark St & Winnemac Ave,9,105
+Clark St & Winnemac Ave,10,377
+Clark St & Winnemac Ave,11,215
+Clark St & Winnemac Ave,12,106
+Clark St & Wrightwood Ave,6,22
+Clark St & Wrightwood Ave,7,114
+Clark St & Wrightwood Ave,8,1
+Clark St & Wrightwood Ave,9,1
+Clark St & Wrightwood Ave,10,84
+Clark St & Wrightwood Ave,11,386
+Clark St & Wrightwood Ave,12,170
+Clifton Ave & Armitage Ave,8,231
+Clifton Ave & Armitage Ave,9,685
+Clifton Ave & Armitage Ave,10,445
+Clifton Ave & Armitage Ave,11,236
+Clifton Ave & Armitage Ave,12,105
+Clifton Ave & Lawrence Ave,9,200
+Clifton Ave & Lawrence Ave,10,168
+Clifton Ave & Lawrence Ave,11,74
+Clifton Ave & Lawrence Ave,12,22
+Clinton St & 18th St,7,20
+Clinton St & 18th St,8,171
+Clinton St & 18th St,9,146
+Clinton St & 18th St,10,194
+Clinton St & 18th St,11,132
+Clinton St & 18th St,12,55
+Clinton St & Lake St,6,39
+Clinton St & Lake St,7,845
+Clinton St & Lake St,8,1433
+Clinton St & Lake St,9,1532
+Clinton St & Lake St,10,1344
+Clinton St & Lake St,11,686
+Clinton St & Lake St,12,448
+Clinton St & Madison St,6,38
+Clinton St & Madison St,7,1355
+Clinton St & Madison St,8,1857
+Clinton St & Madison St,9,1775
+Clinton St & Madison St,10,1657
+Clinton St & Madison St,11,1037
+Clinton St & Madison St,12,608
+Clinton St & Roosevelt Rd,6,30
+Clinton St & Roosevelt Rd,7,419
+Clinton St & Roosevelt Rd,8,602
+Clinton St & Roosevelt Rd,9,474
+Clinton St & Roosevelt Rd,10,437
+Clinton St & Roosevelt Rd,11,236
+Clinton St & Roosevelt Rd,12,131
+Clinton St & Tilden St,6,7
+Clinton St & Tilden St,7,387
+Clinton St & Tilden St,8,579
+Clinton St & Tilden St,9,508
+Clinton St & Tilden St,10,465
+Clinton St & Tilden St,11,229
+Clinton St & Tilden St,12,74
+Clinton St & Washington Blvd,6,57
+Clinton St & Washington Blvd,7,1510
+Clinton St & Washington Blvd,8,2801
+Clinton St & Washington Blvd,9,3177
+Clinton St & Washington Blvd,10,3522
+Clinton St & Washington Blvd,11,2504
+Clinton St & Washington Blvd,12,1396
+Clybourn Ave & Division St,8,308
+Clybourn Ave & Division St,9,399
+Clybourn Ave & Division St,10,378
+Clybourn Ave & Division St,11,209
+Clybourn Ave & Division St,12,99
+Columbus Dr & Randolph St,7,7
+Columbus Dr & Randolph St,8,1146
+Columbus Dr & Randolph St,9,2028
+Columbus Dr & Randolph St,10,1700
+Columbus Dr & Randolph St,11,851
+Columbus Dr & Randolph St,12,456
+Congress Pkwy & Ogden Ave,7,14
+Congress Pkwy & Ogden Ave,8,310
+Congress Pkwy & Ogden Ave,9,262
+Congress Pkwy & Ogden Ave,10,210
+Congress Pkwy & Ogden Ave,11,110
+Congress Pkwy & Ogden Ave,12,56
+Cottage Grove Ave & 43rd St,9,30
+Cottage Grove Ave & 43rd St,10,24
+Cottage Grove Ave & 43rd St,11,3
+Cottage Grove Ave & 43rd St,12,5
+Cottage Grove Ave & 47th St,10,8
+Cottage Grove Ave & 47th St,11,19
+Cottage Grove Ave & 47th St,12,9
+Cottage Grove Ave & 51st St,6,9
+Cottage Grove Ave & 51st St,7,80
+Cottage Grove Ave & 51st St,8,54
+Cottage Grove Ave & 51st St,9,101
+Cottage Grove Ave & 51st St,10,34
+Cottage Grove Ave & 51st St,11,13
+Cottage Grove Ave & 51st St,12,4
+Cottage Grove Ave & Oakwood Blvd,9,114
+Cottage Grove Ave & Oakwood Blvd,10,53
+Cottage Grove Ave & Oakwood Blvd,11,17
+Cottage Grove Ave & Oakwood Blvd,12,8
+Daley Center Plaza,6,85
+Daley Center Plaza,7,1311
+Daley Center Plaza,8,2019
+Daley Center Plaza,9,2232
+Daley Center Plaza,10,1904
+Daley Center Plaza,11,791
+Daley Center Plaza,12,468
+Damen Ave & Augusta Blvd,7,86
+Damen Ave & Augusta Blvd,8,659
+Damen Ave & Augusta Blvd,9,573
+Damen Ave & Augusta Blvd,10,439
+Damen Ave & Augusta Blvd,11,229
+Damen Ave & Augusta Blvd,12,126
+Damen Ave & Charleston St,9,114
+Damen Ave & Charleston St,10,259
+Damen Ave & Charleston St,11,168
+Damen Ave & Charleston St,12,68
+Damen Ave & Chicago Ave,8,666
+Damen Ave & Chicago Ave,9,848
+Damen Ave & Chicago Ave,10,590
+Damen Ave & Chicago Ave,11,306
+Damen Ave & Chicago Ave,12,135
+Damen Ave & Cortland Ave,8,237
+Damen Ave & Cortland Ave,9,705
+Damen Ave & Cortland Ave,10,428
+Damen Ave & Cortland Ave,11,218
+Damen Ave & Cortland Ave,12,82
+Damen Ave & Coulter St,7,11
+Damen Ave & Coulter St,8,38
+Damen Ave & Coulter St,9,29
+Damen Ave & Coulter St,10,15
+Damen Ave & Coulter St,11,2
+Damen Ave & Coulter St,12,5
+Damen Ave & Cullerton St,8,96
+Damen Ave & Cullerton St,9,150
+Damen Ave & Cullerton St,10,80
+Damen Ave & Cullerton St,11,27
+Damen Ave & Cullerton St,12,14
+Damen Ave & Division St,7,89
+Damen Ave & Division St,8,854
+Damen Ave & Division St,9,1029
+Damen Ave & Division St,10,604
+Damen Ave & Division St,11,382
+Damen Ave & Division St,12,229
+Damen Ave & Grand Ave,8,183
+Damen Ave & Grand Ave,9,422
+Damen Ave & Grand Ave,10,356
+Damen Ave & Grand Ave,11,227
+Damen Ave & Grand Ave,12,128
+Damen Ave & Leland Ave,8,121
+Damen Ave & Leland Ave,9,455
+Damen Ave & Leland Ave,10,272
+Damen Ave & Leland Ave,11,147
+Damen Ave & Leland Ave,12,75
+Damen Ave & Madison St,8,66
+Damen Ave & Madison St,9,207
+Damen Ave & Madison St,10,220
+Damen Ave & Madison St,11,104
+Damen Ave & Madison St,12,43
+Damen Ave & Melrose Ave,8,140
+Damen Ave & Melrose Ave,9,395
+Damen Ave & Melrose Ave,10,190
+Damen Ave & Melrose Ave,11,120
+Damen Ave & Melrose Ave,12,47
+Damen Ave & Pierce Ave,6,69
+Damen Ave & Pierce Ave,7,789
+Damen Ave & Pierce Ave,8,1308
+Damen Ave & Pierce Ave,9,1360
+Damen Ave & Pierce Ave,10,1070
+Damen Ave & Pierce Ave,11,547
+Damen Ave & Pierce Ave,12,258
+Damen Ave & Sunnyside Ave,9,30
+Damen Ave & Sunnyside Ave,10,137
+Damen Ave & Sunnyside Ave,11,72
+Damen Ave & Sunnyside Ave,12,37
+Damen Ave & Wellington Ave,7,49
+Damen Ave & Wellington Ave,8,403
+Damen Ave & Wellington Ave,9,376
+Damen Ave & Wellington Ave,10,236
+Damen Ave & Wellington Ave,11,139
+Damen Ave & Wellington Ave,12,37
+Dayton St & North Ave,6,49
+Dayton St & North Ave,7,597
+Dayton St & North Ave,8,1028
+Dayton St & North Ave,9,1077
+Dayton St & North Ave,10,767
+Dayton St & North Ave,11,374
+Dayton St & North Ave,12,162
+Dearborn Pkwy & Delaware Pl,8,1427
+Dearborn Pkwy & Delaware Pl,9,1480
+Dearborn Pkwy & Delaware Pl,10,1179
+Dearborn Pkwy & Delaware Pl,11,593
+Dearborn Pkwy & Delaware Pl,12,274
+Dearborn St & Adams St,6,71
+Dearborn St & Adams St,7,1288
+Dearborn St & Adams St,8,2024
+Dearborn St & Adams St,9,1845
+Dearborn St & Adams St,10,1586
+Dearborn St & Adams St,11,855
+Dearborn St & Adams St,12,443
+Dearborn St & Monroe St,6,26
+Dearborn St & Monroe St,7,834
+Dearborn St & Monroe St,8,1672
+Dearborn St & Monroe St,9,1695
+Dearborn St & Monroe St,10,1773
+Dearborn St & Monroe St,11,1225
+Dearborn St & Monroe St,12,764
+Desplaines St & Kinzie St,6,57
+Desplaines St & Kinzie St,7,854
+Desplaines St & Kinzie St,8,1388
+Desplaines St & Kinzie St,9,1399
+Desplaines St & Kinzie St,10,1178
+Desplaines St & Kinzie St,11,662
+Desplaines St & Kinzie St,12,341
+Eckhart Park,6,16
+Eckhart Park,7,310
+Eckhart Park,8,527
+Eckhart Park,9,459
+Eckhart Park,10,365
+Eckhart Park,11,162
+Eckhart Park,12,90
+Ellis Ave & 58th St,6,3
+Ellis Ave & 58th St,7,296
+Ellis Ave & 58th St,8,288
+Ellis Ave & 58th St,9,110
+Ellis Ave & 58th St,10,300
+Ellis Ave & 58th St,11,187
+Ellis Ave & 58th St,12,67
+Emerald Ave & 28th St,8,91
+Emerald Ave & 28th St,9,154
+Emerald Ave & 28th St,10,92
+Emerald Ave & 28th St,11,56
+Emerald Ave & 28th St,12,23
+Emerald Ave & 31st St,9,4
+Emerald Ave & 31st St,10,109
+Emerald Ave & 31st St,11,89
+Emerald Ave & 31st St,12,54
+Fairbanks Ct & Grand Ave,6,75
+Fairbanks Ct & Grand Ave,7,1459
+Fairbanks Ct & Grand Ave,8,1605
+Fairbanks Ct & Grand Ave,9,1674
+Fairbanks Ct & Grand Ave,10,1292
+Fairbanks Ct & Grand Ave,11,543
+Fairbanks Ct & Grand Ave,12,222
+Fort Dearborn Dr & 31st St,7,150
+Fort Dearborn Dr & 31st St,8,1314
+Fort Dearborn Dr & 31st St,9,1275
+Fort Dearborn Dr & 31st St,10,557
+Fort Dearborn Dr & 31st St,11,139
+Fort Dearborn Dr & 31st St,12,29
+Franklin St & Arcade Pl,9,798
+Franklin St & Arcade Pl,10,1589
+Franklin St & Arcade Pl,11,1020
+Franklin St & Arcade Pl,12,635
+Franklin St & Chicago Ave,6,67
+Franklin St & Chicago Ave,7,700
+Franklin St & Chicago Ave,8,1154
+Franklin St & Chicago Ave,9,1288
+Franklin St & Chicago Ave,10,1086
+Franklin St & Chicago Ave,11,595
+Franklin St & Chicago Ave,12,310
+Franklin St & Jackson Blvd,6,67
+Franklin St & Jackson Blvd,7,1362
+Franklin St & Jackson Blvd,8,2531
+Franklin St & Jackson Blvd,9,2493
+Franklin St & Jackson Blvd,10,1862
+Franklin St & Jackson Blvd,11,973
+Franklin St & Jackson Blvd,12,496
+Franklin St & Lake St,6,6
+Franklin St & Lake St,7,92
+Franklin St & Lake St,8,954
+Franklin St & Lake St,9,1319
+Franklin St & Lake St,10,1281
+Franklin St & Lake St,11,708
+Franklin St & Lake St,12,445
+Franklin St & Quincy St,9,418
+Franklin St & Quincy St,10,896
+Franklin St & Quincy St,11,583
+Franklin St & Quincy St,12,289
+Green St & Milwaukee Ave,6,4
+Green St & Milwaukee Ave,7,250
+Green St & Milwaukee Ave,8,578
+Green St & Milwaukee Ave,9,522
+Green St & Milwaukee Ave,10,484
+Green St & Milwaukee Ave,11,273
+Green St & Milwaukee Ave,12,127
+Green St & Randolph St,6,1
+Green St & Randolph St,7,39
+Green St & Randolph St,8,858
+Green St & Randolph St,9,724
+Green St & Randolph St,10,603
+Green St & Randolph St,11,325
+Green St & Randolph St,12,177
+Greenview Ave & Diversey Pkwy,6,2
+Greenview Ave & Diversey Pkwy,7,81
+Greenview Ave & Diversey Pkwy,8,82
+Greenview Ave & Diversey Pkwy,9,87
+Greenview Ave & Diversey Pkwy,10,188
+Greenview Ave & Diversey Pkwy,11,62
+Greenview Ave & Diversey Pkwy,12,41
+Greenview Ave & Fullerton Ave,7,26
+Greenview Ave & Fullerton Ave,8,331
+Greenview Ave & Fullerton Ave,9,422
+Greenview Ave & Fullerton Ave,10,358
+Greenview Ave & Fullerton Ave,11,159
+Greenview Ave & Fullerton Ave,12,75
+Greenwood Ave & 47th St,6,8
+Greenwood Ave & 47th St,7,141
+Greenwood Ave & 47th St,8,174
+Greenwood Ave & 47th St,9,262
+Greenwood Ave & 47th St,10,158
+Greenwood Ave & 47th St,11,67
+Greenwood Ave & 47th St,12,11
+Halsted St & 18th St,8,89
+Halsted St & 18th St,9,184
+Halsted St & 18th St,10,247
+Halsted St & 18th St,11,122
+Halsted St & 18th St,12,84
+Halsted St & 21st St,7,13
+Halsted St & 21st St,8,156
+Halsted St & 21st St,9,181
+Halsted St & 21st St,10,99
+Halsted St & 21st St,11,40
+Halsted St & 21st St,12,29
+Halsted St & 35th St,6,12
+Halsted St & 35th St,7,252
+Halsted St & 35th St,8,326
+Halsted St & 35th St,9,286
+Halsted St & 35th St,10,71
+Halsted St & 35th St,11,35
+Halsted St & 35th St,12,19
+Halsted St & 37th St,6,9
+Halsted St & 37th St,7,54
+Halsted St & 37th St,10,27
+Halsted St & 37th St,11,10
+Halsted St & Archer Ave,8,107
+Halsted St & Archer Ave,9,148
+Halsted St & Archer Ave,10,242
+Halsted St & Archer Ave,11,126
+Halsted St & Archer Ave,12,71
+Halsted St & Blackhawk St,9,19
+Halsted St & Blackhawk St,10,392
+Halsted St & Blackhawk St,11,235
+Halsted St & Blackhawk St,12,112
+Halsted St & Dickens Ave,8,257
+Halsted St & Dickens Ave,9,618
+Halsted St & Dickens Ave,10,429
+Halsted St & Dickens Ave,11,224
+Halsted St & Dickens Ave,12,108
+Halsted St & Diversey Pkwy,9,78
+Halsted St & Diversey Pkwy,10,515
+Halsted St & Diversey Pkwy,11,278
+Halsted St & Diversey Pkwy,12,116
+Halsted St & James M Rochford St,6,21
+Halsted St & James M Rochford St,7,403
+Halsted St & James M Rochford St,8,528
+Halsted St & James M Rochford St,9,402
+Halsted St & James M Rochford St,10,243
+Halsted St & James M Rochford St,11,140
+Halsted St & James M Rochford St,12,67
+Halsted St & Madison St,8,584
+Halsted St & Madison St,9,928
+Halsted St & Madison St,10,709
+Halsted St & Madison St,11,434
+Halsted St & Madison St,12,194
+Halsted St & Maxwell St,9,163
+Halsted St & Maxwell St,10,314
+Halsted St & Maxwell St,11,127
+Halsted St & Maxwell St,12,54
+Halsted St & Polk St,6,16
+Halsted St & Polk St,7,159
+Halsted St & Polk St,8,415
+Halsted St & Polk St,9,582
+Halsted St & Polk St,10,519
+Halsted St & Polk St,11,267
+Halsted St & Polk St,12,126
+Halsted St & Roscoe St,9,250
+Halsted St & Roscoe St,10,337
+Halsted St & Roscoe St,11,225
+Halsted St & Roscoe St,12,80
+Halsted St & Waveland Ave,9,236
+Halsted St & Waveland Ave,10,562
+Halsted St & Waveland Ave,11,400
+Halsted St & Waveland Ave,12,204
+Halsted St & Willow St,8,151
+Halsted St & Willow St,9,486
+Halsted St & Willow St,10,347
+Halsted St & Willow St,11,208
+Halsted St & Willow St,12,90
+Halsted St & Wrightwood Ave,6,11
+Halsted St & Wrightwood Ave,7,50
+Halsted St & Wrightwood Ave,8,43
+Halsted St & Wrightwood Ave,9,44
+Halsted St & Wrightwood Ave,10,38
+Halsted St & Wrightwood Ave,11,170
+Halsted St & Wrightwood Ave,12,92
+Hampden Ct & Diversey Pkwy,6,2
+Hampden Ct & Diversey Pkwy,8,610
+Hampden Ct & Diversey Pkwy,9,1880
+Hampden Ct & Diversey Pkwy,10,1292
+Hampden Ct & Diversey Pkwy,11,403
+Hampden Ct & Diversey Pkwy,12,167
+Hermitage Ave & Polk St,9,341
+Hermitage Ave & Polk St,10,315
+Hermitage Ave & Polk St,11,203
+Hermitage Ave & Polk St,12,93
+Indiana Ave & 26th St,7,35
+Indiana Ave & 26th St,8,309
+Indiana Ave & 26th St,9,189
+Indiana Ave & 26th St,10,131
+Indiana Ave & 26th St,11,43
+Indiana Ave & 26th St,12,26
+Indiana Ave & 31st St,9,66
+Indiana Ave & 31st St,10,97
+Indiana Ave & 31st St,11,49
+Indiana Ave & 31st St,12,37
+Indiana Ave & 40th St,8,20
+Indiana Ave & 40th St,9,70
+Indiana Ave & 40th St,10,21
+Indiana Ave & 40th St,11,8
+Indiana Ave & 40th St,12,3
+Indiana Ave & Roosevelt Rd,6,1
+Indiana Ave & Roosevelt Rd,7,253
+Indiana Ave & Roosevelt Rd,8,404
+Indiana Ave & Roosevelt Rd,9,1401
+Indiana Ave & Roosevelt Rd,10,1176
+Indiana Ave & Roosevelt Rd,11,453
+Indiana Ave & Roosevelt Rd,12,216
+Jefferson St & Monroe St,6,59
+Jefferson St & Monroe St,7,605
+Jefferson St & Monroe St,8,885
+Jefferson St & Monroe St,9,1021
+Jefferson St & Monroe St,10,835
+Jefferson St & Monroe St,11,564
+Jefferson St & Monroe St,12,316
+Kedzie Ave & Milwaukee Ave,9,203
+Kedzie Ave & Milwaukee Ave,10,399
+Kedzie Ave & Milwaukee Ave,11,224
+Kedzie Ave & Milwaukee Ave,12,108
+Kedzie Ave & Palmer Ct,10,145
+Kedzie Ave & Palmer Ct,11,188
+Kedzie Ave & Palmer Ct,12,117
+Kimbark Ave & 53rd St,6,1
+Kimbark Ave & 53rd St,7,98
+Kimbark Ave & 53rd St,8,74
+Kimbark Ave & 53rd St,9,54
+Kimbark Ave & 53rd St,10,150
+Kimbark Ave & 53rd St,11,98
+Kimbark Ave & 53rd St,12,40
+King Dr & 47th St,8,85
+King Dr & 47th St,9,77
+King Dr & 47th St,10,38
+King Dr & 47th St,11,8
+King Dr & 47th St,12,8
+Kingsbury St & Erie St,6,48
+Kingsbury St & Erie St,7,921
+Kingsbury St & Erie St,8,1260
+Kingsbury St & Erie St,9,1496
+Kingsbury St & Erie St,10,1192
+Kingsbury St & Erie St,11,691
+Kingsbury St & Erie St,12,369
+LaSalle St & Illinois St,6,7
+LaSalle St & Illinois St,7,410
+LaSalle St & Illinois St,8,1491
+LaSalle St & Illinois St,9,1601
+LaSalle St & Illinois St,10,1657
+LaSalle St & Illinois St,11,820
+LaSalle St & Illinois St,12,420
+LaSalle St & Jackson Blvd,9,737
+LaSalle St & Jackson Blvd,10,1584
+LaSalle St & Jackson Blvd,11,1113
+LaSalle St & Jackson Blvd,12,692
+LaSalle St & Washington St,7,350
+LaSalle St & Washington St,8,990
+LaSalle St & Washington St,9,1184
+LaSalle St & Washington St,10,1317
+LaSalle St & Washington St,11,758
+LaSalle St & Washington St,12,527
+Lake Park Ave & 47th St,9,109
+Lake Park Ave & 47th St,10,114
+Lake Park Ave & 47th St,11,57
+Lake Park Ave & 47th St,12,15
+Lake Park Ave & 56th St,10,122
+Lake Park Ave & 56th St,11,90
+Lake Park Ave & 56th St,12,52
+Lake Shore Dr & Belmont Ave,9,179
+Lake Shore Dr & Belmont Ave,10,638
+Lake Shore Dr & Belmont Ave,11,268
+Lake Shore Dr & Belmont Ave,12,100
+Lake Shore Dr & Diversey Pkwy,9,58
+Lake Shore Dr & Diversey Pkwy,10,531
+Lake Shore Dr & Diversey Pkwy,11,192
+Lake Shore Dr & Diversey Pkwy,12,75
+Lake Shore Dr & Monroe St,6,191
+Lake Shore Dr & Monroe St,7,3302
+Lake Shore Dr & Monroe St,8,4971
+Lake Shore Dr & Monroe St,9,3739
+Lake Shore Dr & Monroe St,10,2521
+Lake Shore Dr & Monroe St,11,806
+Lake Shore Dr & Monroe St,12,143
+Lake Shore Dr & North Blvd,9,1280
+Lake Shore Dr & North Blvd,10,1198
+Lake Shore Dr & North Blvd,11,416
+Lake Shore Dr & North Blvd,12,90
+Lake Shore Dr & Ohio St,6,2
+Lake Shore Dr & Ohio St,7,1179
+Lake Shore Dr & Ohio St,8,2306
+Lake Shore Dr & Ohio St,9,1622
+Lake Shore Dr & Ohio St,10,1147
+Lake Shore Dr & Ohio St,11,452
+Lake Shore Dr & Ohio St,12,199
+Lake Shore Dr & Wellington Ave,8,1728
+Lake Shore Dr & Wellington Ave,9,1586
+Lake Shore Dr & Wellington Ave,10,672
+Lake Shore Dr & Wellington Ave,11,260
+Lake Shore Dr & Wellington Ave,12,101
+Lakeview Ave & Fullerton Pkwy,6,1
+Lakeview Ave & Fullerton Pkwy,7,29
+Lakeview Ave & Fullerton Pkwy,8,25
+Lakeview Ave & Fullerton Pkwy,9,572
+Lakeview Ave & Fullerton Pkwy,10,920
+Lakeview Ave & Fullerton Pkwy,11,314
+Lakeview Ave & Fullerton Pkwy,12,110
+Larrabee St & Armitage Ave,9,213
+Larrabee St & Armitage Ave,10,371
+Larrabee St & Armitage Ave,11,132
+Larrabee St & Armitage Ave,12,79
+Larrabee St & Kingsbury St,6,41
+Larrabee St & Kingsbury St,7,681
+Larrabee St & Kingsbury St,8,1186
+Larrabee St & Kingsbury St,9,1375
+Larrabee St & Kingsbury St,10,1536
+Larrabee St & Kingsbury St,11,971
+Larrabee St & Kingsbury St,12,564
+Larrabee St & Menomonee St,6,22
+Larrabee St & Menomonee St,7,550
+Larrabee St & Menomonee St,8,557
+Larrabee St & Menomonee St,9,399
+Larrabee St & Menomonee St,10,302
+Larrabee St & Menomonee St,11,178
+Larrabee St & Menomonee St,12,70
+Larrabee St & North Ave,6,44
+Larrabee St & North Ave,7,436
+Larrabee St & North Ave,8,314
+Larrabee St & North Ave,9,316
+Larrabee St & North Ave,10,205
+Larrabee St & North Ave,11,81
+Larrabee St & North Ave,12,24
+Larrabee St & Webster Ave,8,992
+Larrabee St & Webster Ave,9,1099
+Larrabee St & Webster Ave,10,642
+Larrabee St & Webster Ave,11,335
+Larrabee St & Webster Ave,12,156
+Leavitt St & Armitage Ave,9,107
+Leavitt St & Armitage Ave,10,214
+Leavitt St & Armitage Ave,11,129
+Leavitt St & Armitage Ave,12,55
+Leavitt St & Hirsch St,9,34
+Leavitt St & Hirsch St,10,151
+Leavitt St & Hirsch St,11,76
+Leavitt St & Hirsch St,12,38
+Leavitt St & North Ave,8,147
+Leavitt St & North Ave,9,288
+Leavitt St & North Ave,10,167
+Leavitt St & North Ave,11,93
+Leavitt St & North Ave,12,52
+Lincoln Ave & Addison St,7,38
+Lincoln Ave & Addison St,8,37
+Lincoln Ave & Addison St,9,61
+Lincoln Ave & Addison St,10,156
+Lincoln Ave & Addison St,11,88
+Lincoln Ave & Addison St,12,19
+Lincoln Ave & Armitage Ave,6,66
+Lincoln Ave & Armitage Ave,7,1394
+Lincoln Ave & Armitage Ave,8,1708
+Lincoln Ave & Armitage Ave,9,1263
+Lincoln Ave & Armitage Ave,10,989
+Lincoln Ave & Armitage Ave,11,459
+Lincoln Ave & Armitage Ave,12,214
+Lincoln Ave & Belle Plaine Ave,10,204
+Lincoln Ave & Belle Plaine Ave,11,139
+Lincoln Ave & Belle Plaine Ave,12,71
+Lincoln Ave & Belmont Ave,9,82
+Lincoln Ave & Belmont Ave,10,307
+Lincoln Ave & Belmont Ave,11,147
+Lincoln Ave & Belmont Ave,12,54
+Lincoln Ave & Diversey Pkwy,7,6
+Lincoln Ave & Diversey Pkwy,8,495
+Lincoln Ave & Diversey Pkwy,9,733
+Lincoln Ave & Diversey Pkwy,10,531
+Lincoln Ave & Diversey Pkwy,11,289
+Lincoln Ave & Diversey Pkwy,12,120
+Lincoln Ave & Eastwood Ave,6,15
+Lincoln Ave & Eastwood Ave,7,169
+Lincoln Ave & Eastwood Ave,8,91
+Lincoln Ave & Eastwood Ave,9,165
+Lincoln Ave & Eastwood Ave,10,267
+Lincoln Ave & Eastwood Ave,11,130
+Lincoln Ave & Eastwood Ave,12,59
+Lincoln Ave & Fullerton Ave,6,27
+Lincoln Ave & Fullerton Ave,7,46
+Lincoln Ave & Fullerton Ave,10,11
+Lincoln Ave & Fullerton Ave,11,176
+Lincoln Ave & Fullerton Ave,12,91
+Lincoln Ave & Leavitt St,8,93
+Lincoln Ave & Leavitt St,9,379
+Lincoln Ave & Leavitt St,10,231
+Lincoln Ave & Leavitt St,11,189
+Lincoln Ave & Leavitt St,12,112
+Lincoln Ave & Roscoe St,8,228
+Lincoln Ave & Roscoe St,9,700
+Lincoln Ave & Roscoe St,10,424
+Lincoln Ave & Roscoe St,11,199
+Lincoln Ave & Roscoe St,12,110
+Lincoln Ave & Waveland Ave,9,227
+Lincoln Ave & Waveland Ave,10,278
+Lincoln Ave & Waveland Ave,11,139
+Lincoln Ave & Waveland Ave,12,66
+Logan Blvd & Elston Ave,9,167
+Logan Blvd & Elston Ave,10,266
+Logan Blvd & Elston Ave,11,155
+Logan Blvd & Elston Ave,12,57
+Loomis St & Jackson Blvd,7,10
+Loomis St & Jackson Blvd,8,230
+Loomis St & Jackson Blvd,9,261
+Loomis St & Jackson Blvd,10,250
+Loomis St & Jackson Blvd,11,153
+Loomis St & Jackson Blvd,12,81
+Loomis St & Lexington St,6,5
+Loomis St & Lexington St,7,30
+Loomis St & Lexington St,8,44
+Loomis St & Lexington St,9,47
+Loomis St & Lexington St,10,286
+Loomis St & Lexington St,11,152
+Loomis St & Lexington St,12,63
+Loomis St & Taylor St,6,36
+Loomis St & Taylor St,7,282
+Loomis St & Taylor St,8,491
+Loomis St & Taylor St,9,565
+Loomis St & Taylor St,10,227
+Loomis St & Taylor St,11,177
+Loomis St & Taylor St,12,67
+Martin Luther King Dr & 29th St,8,109
+Martin Luther King Dr & 29th St,9,304
+Martin Luther King Dr & 29th St,10,178
+Martin Luther King Dr & 29th St,11,62
+Martin Luther King Dr & 29th St,12,12
+Martin Luther King Dr & Oakwood Blvd,6,1
+Martin Luther King Dr & Oakwood Blvd,7,125
+Martin Luther King Dr & Oakwood Blvd,8,238
+Martin Luther King Dr & Oakwood Blvd,9,240
+Martin Luther King Dr & Oakwood Blvd,10,103
+Martin Luther King Dr & Oakwood Blvd,11,16
+Martin Luther King Dr & Oakwood Blvd,12,10
+May St & Cullerton St,7,13
+May St & Cullerton St,8,48
+May St & Cullerton St,9,47
+May St & Cullerton St,10,54
+May St & Cullerton St,11,22
+May St & Cullerton St,12,22
+May St & Fulton St,8,161
+May St & Fulton St,9,391
+May St & Fulton St,10,389
+May St & Fulton St,11,274
+May St & Fulton St,12,194
+May St & Randolph St,6,40
+May St & Randolph St,7,470
+May St & Randolph St,8,757
+May St & Randolph St,9,733
+May St & Randolph St,10,633
+May St & Randolph St,11,289
+May St & Randolph St,12,131
+May St & Taylor St,6,41
+May St & Taylor St,7,453
+May St & Taylor St,8,647
+May St & Taylor St,9,480
+May St & Taylor St,10,275
+May St & Taylor St,11,213
+May St & Taylor St,12,106
+McClurg Ct & Illinois St,6,177
+McClurg Ct & Illinois St,7,2777
+McClurg Ct & Illinois St,8,2792
+McClurg Ct & Illinois St,9,2347
+McClurg Ct & Illinois St,10,1695
+McClurg Ct & Illinois St,11,688
+McClurg Ct & Illinois St,12,371
+McCormick Place,6,75
+McCormick Place,7,1038
+McCormick Place,8,1011
+McCormick Place,9,763
+McCormick Place,10,868
+McCormick Place,11,195
+McCormick Place,12,115
+Michigan Ave & 14th St,8,1056
+Michigan Ave & 14th St,9,819
+Michigan Ave & 14th St,10,596
+Michigan Ave & 14th St,11,266
+Michigan Ave & 14th St,12,138
+Michigan Ave & 18th St,7,44
+Michigan Ave & 18th St,9,479
+Michigan Ave & 18th St,10,593
+Michigan Ave & 18th St,11,289
+Michigan Ave & 18th St,12,141
+Michigan Ave & Congress Pkwy,6,50
+Michigan Ave & Congress Pkwy,7,950
+Michigan Ave & Congress Pkwy,8,2062
+Michigan Ave & Congress Pkwy,9,1794
+Michigan Ave & Congress Pkwy,10,990
+Michigan Ave & Congress Pkwy,11,426
+Michigan Ave & Congress Pkwy,12,202
+Michigan Ave & Jackson Blvd,9,855
+Michigan Ave & Jackson Blvd,10,1280
+Michigan Ave & Jackson Blvd,11,559
+Michigan Ave & Jackson Blvd,12,274
+Michigan Ave & Lake St,6,106
+Michigan Ave & Lake St,7,2137
+Michigan Ave & Lake St,8,2923
+Michigan Ave & Lake St,9,2349
+Michigan Ave & Lake St,10,1825
+Michigan Ave & Lake St,11,940
+Michigan Ave & Lake St,12,480
+Michigan Ave & Madison St,8,727
+Michigan Ave & Madison St,9,962
+Michigan Ave & Madison St,10,862
+Michigan Ave & Madison St,11,445
+Michigan Ave & Madison St,12,268
+Michigan Ave & Oak St,6,186
+Michigan Ave & Oak St,7,2806
+Michigan Ave & Oak St,8,4040
+Michigan Ave & Oak St,9,3332
+Michigan Ave & Oak St,10,1948
+Michigan Ave & Oak St,11,677
+Michigan Ave & Oak St,12,285
+Michigan Ave & Pearson St,6,127
+Michigan Ave & Pearson St,7,2216
+Michigan Ave & Pearson St,8,2240
+Michigan Ave & Pearson St,9,1834
+Michigan Ave & Pearson St,10,1317
+Michigan Ave & Pearson St,11,519
+Michigan Ave & Pearson St,12,234
+Michigan Ave & Washington St,6,50
+Michigan Ave & Washington St,7,1416
+Michigan Ave & Washington St,8,2500
+Michigan Ave & Washington St,9,2148
+Michigan Ave & Washington St,10,1421
+Michigan Ave & Washington St,11,783
+Michigan Ave & Washington St,12,311
+Mies van der Rohe Way & Chicago Ave,8,1904
+Mies van der Rohe Way & Chicago Ave,9,1478
+Mies van der Rohe Way & Chicago Ave,10,1133
+Mies van der Rohe Way & Chicago Ave,11,551
+Mies van der Rohe Way & Chicago Ave,12,209
+Millennium Park,6,207
+Millennium Park,7,3848
+Millennium Park,8,4858
+Millennium Park,9,4190
+Millennium Park,10,2683
+Millennium Park,11,1063
+Millennium Park,12,423
+Milwaukee Ave & Rockwell St,8,64
+Milwaukee Ave & Rockwell St,9,149
+Milwaukee Ave & Rockwell St,10,154
+Milwaukee Ave & Rockwell St,11,92
+Milwaukee Ave & Rockwell St,12,44
+Milwaukee Ave & Wabansia Ave,7,36
+Milwaukee Ave & Wabansia Ave,8,533
+Milwaukee Ave & Wabansia Ave,9,473
+Milwaukee Ave & Wabansia Ave,10,273
+Milwaukee Ave & Wabansia Ave,11,169
+Milwaukee Ave & Wabansia Ave,12,72
+Montrose Harbor,6,5
+Montrose Harbor,7,98
+Montrose Harbor,8,357
+Montrose Harbor,9,1248
+Montrose Harbor,10,555
+Montrose Harbor,11,185
+Montrose Harbor,12,16
+Morgan Ave & 14th Pl,7,1
+Morgan Ave & 14th Pl,8,389
+Morgan Ave & 14th Pl,9,444
+Morgan Ave & 14th Pl,10,365
+Morgan Ave & 14th Pl,11,233
+Morgan Ave & 14th Pl,12,105
+Morgan St & 18th St,6,21
+Morgan St & 18th St,7,403
+Morgan St & 18th St,8,371
+Morgan St & 18th St,9,343
+Morgan St & 18th St,10,201
+Morgan St & 18th St,11,122
+Morgan St & 18th St,12,60
+Morgan St & 31st St,9,79
+Morgan St & 31st St,10,101
+Morgan St & 31st St,11,51
+Morgan St & 31st St,12,27
+Morgan St & Lake St,6,30
+Morgan St & Lake St,7,550
+Morgan St & Lake St,8,709
+Morgan St & Lake St,9,655
+Morgan St & Lake St,10,593
+Morgan St & Lake St,11,346
+Morgan St & Lake St,12,160
+Morgan St & Polk St,8,99
+Morgan St & Polk St,9,448
+Morgan St & Polk St,10,556
+Morgan St & Polk St,11,420
+Morgan St & Polk St,12,226
+Museum Campus,6,41
+Museum Campus,7,2625
+Museum Campus,8,3911
+Museum Campus,9,3269
+Museum Campus,10,1913
+Museum Campus,11,690
+Museum Campus,12,227
+Noble St & Milwaukee Ave,6,37
+Noble St & Milwaukee Ave,7,395
+Noble St & Milwaukee Ave,8,727
+Noble St & Milwaukee Ave,9,653
+Noble St & Milwaukee Ave,10,475
+Noble St & Milwaukee Ave,11,269
+Noble St & Milwaukee Ave,12,116
+Normal Ave & Archer Ave,8,59
+Normal Ave & Archer Ave,9,122
+Normal Ave & Archer Ave,10,134
+Normal Ave & Archer Ave,11,82
+Normal Ave & Archer Ave,12,28
+Ogden Ave & Chicago Ave,6,29
+Ogden Ave & Chicago Ave,7,436
+Ogden Ave & Chicago Ave,8,595
+Ogden Ave & Chicago Ave,9,637
+Ogden Ave & Chicago Ave,10,503
+Ogden Ave & Chicago Ave,11,240
+Ogden Ave & Chicago Ave,12,121
+Ogden Ave & Race Ave,7,28
+Ogden Ave & Race Ave,8,438
+Ogden Ave & Race Ave,9,482
+Ogden Ave & Race Ave,10,400
+Ogden Ave & Race Ave,11,161
+Ogden Ave & Race Ave,12,71
+Orleans St & Elm St,6,20
+Orleans St & Elm St,7,475
+Orleans St & Elm St,8,456
+Orleans St & Elm St,9,424
+Orleans St & Elm St,10,370
+Orleans St & Elm St,11,178
+Orleans St & Elm St,12,84
+Orleans St & Merchandise Mart Plaza,7,337
+Orleans St & Merchandise Mart Plaza,8,1262
+Orleans St & Merchandise Mart Plaza,9,1563
+Orleans St & Merchandise Mart Plaza,10,1554
+Orleans St & Merchandise Mart Plaza,11,903
+Orleans St & Merchandise Mart Plaza,12,515
+Paulina St & 18th St,8,98
+Paulina St & 18th St,9,174
+Paulina St & 18th St,10,173
+Paulina St & 18th St,11,115
+Paulina St & 18th St,12,59
+Paulina St & Diversey Pkwy,7,4
+Paulina St & Diversey Pkwy,8,179
+Paulina St & Diversey Pkwy,9,241
+Paulina St & Diversey Pkwy,10,229
+Paulina St & Diversey Pkwy,11,61
+Paulina St & Diversey Pkwy,12,48
+Paulina St & Montrose Ave,9,71
+Paulina St & Montrose Ave,10,130
+Paulina St & Montrose Ave,11,89
+Paulina St & Montrose Ave,12,39
+Peoria St & Jackson Blvd,7,125
+Peoria St & Jackson Blvd,8,895
+Peoria St & Jackson Blvd,9,1079
+Peoria St & Jackson Blvd,10,862
+Peoria St & Jackson Blvd,11,494
+Peoria St & Jackson Blvd,12,346
+Pine Grove Ave & Addison St,6,8
+Pine Grove Ave & Addison St,7,131
+Pine Grove Ave & Addison St,8,601
+Pine Grove Ave & Addison St,9,1058
+Pine Grove Ave & Addison St,10,515
+Pine Grove Ave & Addison St,11,273
+Pine Grove Ave & Addison St,12,158
+Pine Grove Ave & Irving Park Rd,9,370
+Pine Grove Ave & Irving Park Rd,10,606
+Pine Grove Ave & Irving Park Rd,11,277
+Pine Grove Ave & Irving Park Rd,12,139
+Prairie Ave & Garfield Blvd,8,56
+Prairie Ave & Garfield Blvd,9,59
+Prairie Ave & Garfield Blvd,10,62
+Prairie Ave & Garfield Blvd,11,42
+Prairie Ave & Garfield Blvd,12,20
+Racine Ave & 13th St,8,45
+Racine Ave & 13th St,9,65
+Racine Ave & 13th St,10,82
+Racine Ave & 13th St,11,50
+Racine Ave & 13th St,12,22
+Racine Ave & 15th St,9,85
+Racine Ave & 15th St,10,174
+Racine Ave & 15th St,11,102
+Racine Ave & 15th St,12,45
+Racine Ave & 18th St,6,33
+Racine Ave & 18th St,7,333
+Racine Ave & 18th St,8,292
+Racine Ave & 18th St,9,290
+Racine Ave & 18th St,10,347
+Racine Ave & 18th St,11,254
+Racine Ave & 18th St,12,140
+Racine Ave & Belmont Ave,8,196
+Racine Ave & Belmont Ave,9,595
+Racine Ave & Belmont Ave,10,308
+Racine Ave & Belmont Ave,11,171
+Racine Ave & Belmont Ave,12,73
+Racine Ave & Congress Pkwy,6,26
+Racine Ave & Congress Pkwy,7,277
+Racine Ave & Congress Pkwy,8,452
+Racine Ave & Congress Pkwy,9,358
+Racine Ave & Congress Pkwy,10,398
+Racine Ave & Congress Pkwy,11,223
+Racine Ave & Congress Pkwy,12,117
+Racine Ave & Fullerton Ave,6,51
+Racine Ave & Fullerton Ave,7,417
+Racine Ave & Fullerton Ave,8,647
+Racine Ave & Fullerton Ave,9,594
+Racine Ave & Fullerton Ave,10,472
+Racine Ave & Fullerton Ave,11,219
+Racine Ave & Fullerton Ave,12,98
+Racine Ave & Wrightwood Ave,10,22
+Racine Ave & Wrightwood Ave,11,141
+Racine Ave & Wrightwood Ave,12,66
+Ravenswood Ave & Berteau Ave,8,2
+Ravenswood Ave & Berteau Ave,9,22
+Ravenswood Ave & Berteau Ave,10,201
+Ravenswood Ave & Berteau Ave,11,164
+Ravenswood Ave & Berteau Ave,12,58
+Ravenswood Ave & Irving Park Rd,6,1
+Ravenswood Ave & Irving Park Rd,7,21
+Ravenswood Ave & Irving Park Rd,8,135
+Ravenswood Ave & Irving Park Rd,9,422
+Ravenswood Ave & Irving Park Rd,10,226
+Ravenswood Ave & Irving Park Rd,11,139
+Ravenswood Ave & Irving Park Rd,12,63
+Ravenswood Ave & Montrose Ave,8,79
+Ravenswood Ave & Montrose Ave,9,334
+Ravenswood Ave & Montrose Ave,10,221
+Ravenswood Ave & Montrose Ave,11,126
+Ravenswood Ave & Montrose Ave,12,72
+Rhodes Ave & 32nd St,9,79
+Rhodes Ave & 32nd St,10,114
+Rhodes Ave & 32nd St,11,42
+Rhodes Ave & 32nd St,12,27
+Sangamon St & Washington Blvd,8,438
+Sangamon St & Washington Blvd,9,434
+Sangamon St & Washington Blvd,10,474
+Sangamon St & Washington Blvd,11,282
+Sangamon St & Washington Blvd,12,169
+Sedgwick St & Huron St,8,529
+Sedgwick St & Huron St,9,658
+Sedgwick St & Huron St,10,592
+Sedgwick St & Huron St,11,326
+Sedgwick St & Huron St,12,170
+Sedgwick St & North Ave,8,1020
+Sedgwick St & North Ave,9,897
+Sedgwick St & North Ave,10,654
+Sedgwick St & North Ave,11,318
+Sedgwick St & North Ave,12,166
+Sedgwick St & Schiller St,8,100
+Sedgwick St & Schiller St,9,260
+Sedgwick St & Schiller St,10,114
+Sedgwick St & Schiller St,11,48
+Sedgwick St & Schiller St,12,54
+Sedgwick St & Webster Ave,8,1040
+Sedgwick St & Webster Ave,9,1339
+Sedgwick St & Webster Ave,10,911
+Sedgwick St & Webster Ave,11,474
+Sedgwick St & Webster Ave,12,172
+Seeley Ave & Roscoe St,9,37
+Seeley Ave & Roscoe St,10,213
+Seeley Ave & Roscoe St,11,126
+Seeley Ave & Roscoe St,12,58
+Sheffield Ave & Addison St,8,1024
+Sheffield Ave & Addison St,9,1057
+Sheffield Ave & Addison St,10,663
+Sheffield Ave & Addison St,11,330
+Sheffield Ave & Addison St,12,141
+Sheffield Ave & Fullerton Ave,6,57
+Sheffield Ave & Fullerton Ave,7,965
+Sheffield Ave & Fullerton Ave,8,1470
+Sheffield Ave & Fullerton Ave,9,1524
+Sheffield Ave & Fullerton Ave,10,1022
+Sheffield Ave & Fullerton Ave,11,628
+Sheffield Ave & Fullerton Ave,12,296
+Sheffield Ave & Kingsbury St,6,20
+Sheffield Ave & Kingsbury St,7,347
+Sheffield Ave & Kingsbury St,8,662
+Sheffield Ave & Kingsbury St,9,807
+Sheffield Ave & Kingsbury St,10,546
+Sheffield Ave & Kingsbury St,11,241
+Sheffield Ave & Kingsbury St,12,124
+Sheffield Ave & Webster Ave,9,106
+Sheffield Ave & Webster Ave,10,522
+Sheffield Ave & Webster Ave,11,273
+Sheffield Ave & Webster Ave,12,142
+Sheffield Ave & Wellington Ave,7,247
+Sheffield Ave & Wellington Ave,8,979
+Sheffield Ave & Wellington Ave,9,898
+Sheffield Ave & Wellington Ave,10,683
+Sheffield Ave & Wellington Ave,11,419
+Sheffield Ave & Wellington Ave,12,214
+Sheffield Ave & Willow St,6,25
+Sheffield Ave & Willow St,7,401
+Sheffield Ave & Willow St,8,755
+Sheffield Ave & Willow St,9,575
+Sheffield Ave & Willow St,10,518
+Sheffield Ave & Willow St,11,270
+Sheffield Ave & Willow St,12,131
+Sheffield Ave & Wrightwood Ave,9,298
+Sheffield Ave & Wrightwood Ave,10,498
+Sheffield Ave & Wrightwood Ave,11,197
+Sheffield Ave & Wrightwood Ave,12,54
+Sheridan Rd & Buena Ave,9,52
+Sheridan Rd & Buena Ave,10,334
+Sheridan Rd & Buena Ave,11,192
+Sheridan Rd & Buena Ave,12,82
+Sheridan Rd & Irving Park Rd,8,294
+Sheridan Rd & Irving Park Rd,9,714
+Sheridan Rd & Irving Park Rd,10,705
+Sheridan Rd & Irving Park Rd,11,442
+Sheridan Rd & Irving Park Rd,12,234
+Sheridan Rd & Lawrence Ave,9,45
+Sheridan Rd & Lawrence Ave,10,196
+Sheridan Rd & Lawrence Ave,11,70
+Sheridan Rd & Lawrence Ave,12,22
+Sheridan Rd & Montrose Ave,8,297
+Sheridan Rd & Montrose Ave,9,697
+Sheridan Rd & Montrose Ave,10,460
+Sheridan Rd & Montrose Ave,11,262
+Sheridan Rd & Montrose Ave,12,108
+Shore Drive & 55th St,8,193
+Shore Drive & 55th St,9,505
+Shore Drive & 55th St,10,298
+Shore Drive & 55th St,11,100
+Shore Drive & 55th St,12,31
+Southport Ave & Belmont Ave,7,21
+Southport Ave & Belmont Ave,8,713
+Southport Ave & Belmont Ave,9,524
+Southport Ave & Belmont Ave,10,331
+Southport Ave & Belmont Ave,11,181
+Southport Ave & Belmont Ave,12,56
+Southport Ave & Clark St,9,86
+Southport Ave & Clark St,10,147
+Southport Ave & Clark St,11,85
+Southport Ave & Clark St,12,38
+Southport Ave & Clybourn Ave,9,111
+Southport Ave & Clybourn Ave,10,348
+Southport Ave & Clybourn Ave,11,187
+Southport Ave & Clybourn Ave,12,97
+Southport Ave & Irving Park Rd,9,114
+Southport Ave & Irving Park Rd,10,317
+Southport Ave & Irving Park Rd,11,199
+Southport Ave & Irving Park Rd,12,95
+Southport Ave & Roscoe St,8,264
+Southport Ave & Roscoe St,9,727
+Southport Ave & Roscoe St,10,539
+Southport Ave & Roscoe St,11,283
+Southport Ave & Roscoe St,12,113
+Southport Ave & Waveland Ave,8,232
+Southport Ave & Waveland Ave,9,714
+Southport Ave & Waveland Ave,10,597
+Southport Ave & Waveland Ave,11,318
+Southport Ave & Waveland Ave,12,150
+Southport Ave & Wellington Ave,7,77
+Southport Ave & Wellington Ave,8,808
+Southport Ave & Wellington Ave,9,953
+Southport Ave & Wellington Ave,10,757
+Southport Ave & Wellington Ave,11,430
+Southport Ave & Wellington Ave,12,172
+Southport Ave & Wrightwood Ave,6,10
+Southport Ave & Wrightwood Ave,8,396
+Southport Ave & Wrightwood Ave,9,658
+Southport Ave & Wrightwood Ave,10,502
+Southport Ave & Wrightwood Ave,11,300
+Southport Ave & Wrightwood Ave,12,121
+St Clair St & Erie St,8,723
+St Clair St & Erie St,9,1452
+St Clair St & Erie St,10,1303
+St Clair St & Erie St,11,640
+St Clair St & Erie St,12,358
+State St & 16th St,6,37
+State St & 16th St,7,626
+State St & 16th St,8,800
+State St & 16th St,9,554
+State St & 16th St,10,505
+State St & 16th St,11,228
+State St & 16th St,12,96
+State St & 19th St,7,98
+State St & 19th St,8,404
+State St & 19th St,9,382
+State St & 19th St,10,225
+State St & 19th St,11,128
+State St & 19th St,12,53
+State St & 29th St,8,10
+State St & 29th St,9,74
+State St & 29th St,10,50
+State St & 29th St,11,10
+State St & 29th St,12,5
+State St & 33rd St,8,37
+State St & 33rd St,9,205
+State St & 33rd St,10,206
+State St & 33rd St,11,95
+State St & 33rd St,12,41
+State St & 35th St,8,247
+State St & 35th St,9,262
+State St & 35th St,10,156
+State St & 35th St,11,51
+State St & 35th St,12,24
+State St & Erie St,8,1440
+State St & Erie St,9,1858
+State St & Erie St,10,1668
+State St & Erie St,11,849
+State St & Erie St,12,414
+State St & Harrison St,6,42
+State St & Harrison St,7,974
+State St & Harrison St,8,1473
+State St & Harrison St,9,1308
+State St & Harrison St,10,747
+State St & Harrison St,11,318
+State St & Harrison St,12,168
+State St & Kinzie St,6,62
+State St & Kinzie St,7,1770
+State St & Kinzie St,8,1996
+State St & Kinzie St,9,1604
+State St & Kinzie St,10,1363
+State St & Kinzie St,11,733
+State St & Kinzie St,12,402
+State St & Pearson St,8,799
+State St & Pearson St,9,742
+State St & Pearson St,10,511
+State St & Pearson St,11,248
+State St & Pearson St,12,91
+State St & Randolph St,6,60
+State St & Randolph St,7,1242
+State St & Randolph St,8,1625
+State St & Randolph St,9,1564
+State St & Randolph St,10,1387
+State St & Randolph St,11,696
+State St & Randolph St,12,305
+State St & Van Buren St,6,45
+State St & Van Buren St,7,1070
+State St & Van Buren St,8,1579
+State St & Van Buren St,9,1335
+State St & Van Buren St,10,1103
+State St & Van Buren St,11,543
+State St & Van Buren St,12,308
+State St & Wacker Dr,8,960
+State St & Wacker Dr,9,1217
+State St & Wacker Dr,10,972
+State St & Wacker Dr,11,415
+State St & Wacker Dr,12,225
+Stave St & Armitage Ave,7,19
+Stave St & Armitage Ave,8,277
+Stave St & Armitage Ave,9,179
+Stave St & Armitage Ave,10,116
+Stave St & Armitage Ave,11,79
+Stave St & Armitage Ave,12,85
+Stetson Ave & South Water St,9,333
+Stetson Ave & South Water St,10,840
+Stetson Ave & South Water St,11,392
+Stetson Ave & South Water St,12,204
+Stockton Dr & Wrightwood Ave,10,490
+Stockton Dr & Wrightwood Ave,11,191
+Stockton Dr & Wrightwood Ave,12,53
+Streeter Dr & Illinois St,8,6005
+Streeter Dr & Illinois St,9,5855
+Streeter Dr & Illinois St,10,3686
+Streeter Dr & Illinois St,11,989
+Streeter Dr & Illinois St,12,175
+Theater on the Lake,8,2416
+Theater on the Lake,9,3741
+Theater on the Lake,10,2186
+Theater on the Lake,11,579
+Theater on the Lake,12,160
+Wabash Ave & 8th St,7,1
+Wabash Ave & 8th St,8,8
+Wabash Ave & 8th St,9,330
+Wabash Ave & 8th St,10,910
+Wabash Ave & 8th St,11,455
+Wabash Ave & 8th St,12,184
+Wabash Ave & Cermak Rd,6,34
+Wabash Ave & Cermak Rd,7,401
+Wabash Ave & Cermak Rd,8,567
+Wabash Ave & Cermak Rd,9,392
+Wabash Ave & Cermak Rd,10,282
+Wabash Ave & Cermak Rd,11,91
+Wabash Ave & Cermak Rd,12,48
+Wabash Ave & Grand Ave,8,1454
+Wabash Ave & Grand Ave,9,1842
+Wabash Ave & Grand Ave,10,1487
+Wabash Ave & Grand Ave,11,684
+Wabash Ave & Grand Ave,12,391
+Wabash Ave & Roosevelt Rd,6,113
+Wabash Ave & Roosevelt Rd,7,1577
+Wabash Ave & Roosevelt Rd,8,2395
+Wabash Ave & Roosevelt Rd,9,1764
+Wabash Ave & Roosevelt Rd,10,1184
+Wabash Ave & Roosevelt Rd,11,612
+Wabash Ave & Roosevelt Rd,12,414
+Wallace Ave & 35th St,9,61
+Wallace Ave & 35th St,10,52
+Wallace Ave & 35th St,11,14
+Wallace Ave & 35th St,12,6
+Wells St & 19th St,8,61
+Wells St & 19th St,9,171
+Wells St & 19th St,10,92
+Wells St & 19th St,11,26
+Wells St & 19th St,12,10
+Wells St & Concord Ln,9,737
+Wells St & Concord Ln,10,1078
+Wells St & Concord Ln,11,564
+Wells St & Concord Ln,12,283
+Wells St & Erie St,6,49
+Wells St & Erie St,7,1160
+Wells St & Erie St,8,1383
+Wells St & Erie St,9,1308
+Wells St & Erie St,10,1054
+Wells St & Erie St,11,615
+Wells St & Erie St,12,349
+Wells St & Evergreen Ave,9,523
+Wells St & Evergreen Ave,10,695
+Wells St & Evergreen Ave,11,300
+Wells St & Evergreen Ave,12,140
+Wells St & Ohio St,7,1
+Wells St & Ohio St,8,406
+Wells St & Ohio St,9,897
+Wells St & Ohio St,10,808
+Wells St & Ohio St,11,441
+Wells St & Ohio St,12,206
+Wells St & Polk St,8,622
+Wells St & Polk St,9,773
+Wells St & Polk St,10,525
+Wells St & Polk St,11,338
+Wells St & Polk St,12,207
+Wells St & Walton St,6,60
+Wells St & Walton St,7,587
+Wells St & Walton St,8,860
+Wells St & Walton St,9,710
+Wells St & Walton St,10,566
+Wells St & Walton St,11,321
+Wells St & Walton St,12,184
+Wentworth Ave & 24th St,9,61
+Wentworth Ave & 24th St,10,86
+Wentworth Ave & 24th St,11,6
+Wentworth Ave & 24th St,12,4
+Wentworth Ave & Archer Ave,8,277
+Wentworth Ave & Archer Ave,9,484
+Wentworth Ave & Archer Ave,10,369
+Wentworth Ave & Archer Ave,11,128
+Wentworth Ave & Archer Ave,12,44
+Western Ave & 21st St,8,54
+Western Ave & 21st St,9,73
+Western Ave & 21st St,10,50
+Western Ave & 21st St,11,27
+Western Ave & 21st St,12,14
+Western Ave & 24th St,9,15
+Western Ave & 24th St,10,15
+Western Ave & 24th St,11,5
+Western Ave & 24th St,12,3
+Western Ave & Division St,6,1
+Western Ave & Division St,7,38
+Western Ave & Division St,8,22
+Western Ave & Division St,9,89
+Western Ave & Division St,10,257
+Western Ave & Division St,11,109
+Western Ave & Division St,12,66
+Western Ave & Leland Ave,8,108
+Western Ave & Leland Ave,9,404
+Western Ave & Leland Ave,10,245
+Western Ave & Leland Ave,11,142
+Western Ave & Leland Ave,12,71
+Western Ave & Winnebago Ave,7,23
+Western Ave & Winnebago Ave,8,352
+Western Ave & Winnebago Ave,9,372
+Western Ave & Winnebago Ave,10,214
+Western Ave & Winnebago Ave,11,136
+Western Ave & Winnebago Ave,12,55
+Wilton Ave & Belmont Ave,8,221
+Wilton Ave & Belmont Ave,9,668
+Wilton Ave & Belmont Ave,10,957
+Wilton Ave & Belmont Ave,11,550
+Wilton Ave & Belmont Ave,12,255
+Wilton Ave & Diversey Pkwy,6,21
+Wilton Ave & Diversey Pkwy,7,623
+Wilton Ave & Diversey Pkwy,8,848
+Wilton Ave & Diversey Pkwy,9,871
+Wilton Ave & Diversey Pkwy,10,712
+Wilton Ave & Diversey Pkwy,11,416
+Wilton Ave & Diversey Pkwy,12,214
+Wolcott Ave & Lawrence Ave,10,206
+Wolcott Ave & Lawrence Ave,11,245
+Wolcott Ave & Lawrence Ave,12,157
+Wolcott Ave & Polk St,8,7
+Wolcott Ave & Polk St,9,1
+Wolcott Ave & Polk St,10,169
+Wolcott Ave & Polk St,11,207
+Wolcott Ave & Polk St,12,97
+Wood St & Division St,6,73
+Wood St & Division St,7,544
+Wood St & Division St,8,607
+Wood St & Division St,9,696
+Wood St & Division St,10,467
+Wood St & Division St,11,246
+Wood St & Division St,12,117
+Wood St & Grand Ave,6,4
+Wood St & Grand Ave,7,14
+Wood St & Grand Ave,9,112
+Wood St & Grand Ave,10,222
+Wood St & Grand Ave,11,138
+Wood St & Grand Ave,12,77
+Wood St & Milwaukee Ave,6,39
+Wood St & Milwaukee Ave,7,397
+Wood St & Milwaukee Ave,8,617
+Wood St & Milwaukee Ave,9,608
+Wood St & Milwaukee Ave,10,532
+Wood St & Milwaukee Ave,11,283
+Wood St & Milwaukee Ave,12,128
+Wood St & North Ave,6,13
+Wood St & North Ave,7,221
+Wood St & North Ave,8,449
+Wood St & North Ave,9,468
+Wood St & North Ave,10,344
+Wood St & North Ave,11,147
+Wood St & North Ave,12,95
+Wood St & Taylor St,9,70
+Wood St & Taylor St,10,235
+Wood St & Taylor St,11,113
+Wood St & Taylor St,12,72
+Woodlawn Ave & 55th St,8,93
+Woodlawn Ave & 55th St,9,306
+Woodlawn Ave & 55th St,10,255
+Woodlawn Ave & 55th St,11,141
+Woodlawn Ave & 55th St,12,51

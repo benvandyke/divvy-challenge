@@ -1,0 +1,601 @@
+from_station_name,gender,trips
+900 W Harrison,Female,227
+900 W Harrison,Male,887
+Aberdeen St & Jackson Blvd,Female,404
+Aberdeen St & Jackson Blvd,Male,1301
+Aberdeen St & Madison St,Female,460
+Aberdeen St & Madison St,Male,2603
+Ada St & Washington Blvd,Female,102
+Ada St & Washington Blvd,Male,383
+Adler Planetarium,Female,37
+Adler Planetarium,Male,128
+Ashland Ave & 13th St,Female,51
+Ashland Ave & 13th St,Male,65
+Ashland Ave & 21st St,Female,10
+Ashland Ave & 21st St,Male,66
+Ashland Ave & Armitage Ave,Female,568
+Ashland Ave & Armitage Ave,Male,2244
+Ashland Ave & Augusta Blvd,Female,423
+Ashland Ave & Augusta Blvd,Male,879
+Ashland Ave & Belle Plaine Ave,Female,105
+Ashland Ave & Belle Plaine Ave,Male,233
+Ashland Ave & Blackhawk St,Female,169
+Ashland Ave & Blackhawk St,Male,179
+Ashland Ave & Chicago Ave,Female,205
+Ashland Ave & Chicago Ave,Male,293
+Ashland Ave & Division St,Female,506
+Ashland Ave & Division St,Male,1248
+Ashland Ave & Grace St,Female,46
+Ashland Ave & Grace St,Male,137
+Ashland Ave & Grand Ave,Female,37
+Ashland Ave & Grand Ave,Male,255
+Ashland Ave & Lake St,Female,113
+Ashland Ave & Lake St,Male,394
+Ashland Ave & Wellington Ave,Female,122
+Ashland Ave & Wellington Ave,Male,324
+Ashland Ave & Wrightwood Ave,Female,173
+Ashland Ave & Wrightwood Ave,Male,401
+Bissell St & Armitage Ave,Female,332
+Bissell St & Armitage Ave,Male,796
+Blackstone Ave & Hyde Park Blvd,Female,74
+Blackstone Ave & Hyde Park Blvd,Male,335
+Blue Island Ave & 18th St,Female,235
+Blue Island Ave & 18th St,Male,482
+Broadway & Argyle St,Female,66
+Broadway & Argyle St,Male,156
+Broadway & Barry Ave,Female,253
+Broadway & Barry Ave,Male,751
+Broadway & Belmont Ave,Female,166
+Broadway & Belmont Ave,Male,434
+Broadway & Berwyn Ave,Female,80
+Broadway & Berwyn Ave,Male,213
+Broadway & Cornelia Ave,Female,144
+Broadway & Cornelia Ave,Male,488
+Broadway & Sheridan Rd,Female,87
+Broadway & Sheridan Rd,Male,296
+Broadway & Wilson Ave,Female,48
+Broadway & Wilson Ave,Male,312
+California Ave & 21st St,Female,12
+California Ave & 21st St,Male,49
+California Ave & Division St,Female,171
+California Ave & Division St,Male,315
+California Ave & Francis Pl,Female,99
+California Ave & Francis Pl,Male,258
+California Ave & Milwaukee Ave,Female,288
+California Ave & Milwaukee Ave,Male,1109
+California Ave & North Ave,Female,132
+California Ave & North Ave,Male,275
+Calumet Ave & 18th St,Female,186
+Calumet Ave & 18th St,Male,490
+Calumet Ave & 33rd St,Female,45
+Calumet Ave & 33rd St,Male,253
+Calumet Ave & 35th St,Female,3
+Calumet Ave & 35th St,Male,22
+Campbell Ave & North Ave,Female,64
+Campbell Ave & North Ave,Male,219
+Canal St & Adams St,Female,642
+Canal St & Adams St,Male,4574
+Canal St & Harrison St,Female,172
+Canal St & Harrison St,Male,776
+Canal St & Jackson Blvd,Female,862
+Canal St & Jackson Blvd,Male,7272
+Canal St & Madison St,Female,967
+Canal St & Madison St,Male,5628
+Canal St & Monroe St,Female,491
+Canal St & Monroe St,Male,2873
+Cannon Dr & Fullerton Ave,Female,323
+Cannon Dr & Fullerton Ave,Male,773
+Carpenter St & Huron St,Female,185
+Carpenter St & Huron St,Male,890
+Cityfront Plaza & N Water St,Female,278
+Cityfront Plaza & N Water St,Male,1533
+Claremont Ave & Hirsch St,Female,143
+Claremont Ave & Hirsch St,Male,291
+Clarendon Ave & Gordon Ter,Female,21
+Clarendon Ave & Gordon Ter,Male,93
+Clarendon Ave & Junior Ter,Female,103
+Clarendon Ave & Junior Ter,Male,532
+Clarendon Ave & Leland Ave,Female,81
+Clarendon Ave & Leland Ave,Male,233
+Clark St & Chicago Ave,Female,142
+Clark St & Chicago Ave,Male,473
+Clark St & Congress Pkwy,Female,575
+Clark St & Congress Pkwy,Male,3275
+Clark St & Elm St,Female,797
+Clark St & Elm St,Male,2439
+Clark St & Leland Ave,Female,66
+Clark St & Leland Ave,Male,319
+Clark St & Lincoln Ave,Female,697
+Clark St & Lincoln Ave,Male,1266
+Clark St & Montrose Ave,Female,125
+Clark St & Montrose Ave,Male,374
+Clark St & North Ave,Female,518
+Clark St & North Ave,Male,1474
+Clark St & Randolph St,Female,721
+Clark St & Randolph St,Male,4294
+Clark St & Schiller St,Female,354
+Clark St & Schiller St,Male,838
+Clark St & Waveland Ave,Female,259
+Clark St & Waveland Ave,Male,628
+Clark St & Wellington Ave,Female,345
+Clark St & Wellington Ave,Male,1414
+Clark St & Winnemac Ave,Female,164
+Clark St & Winnemac Ave,Male,358
+Clark St & Wrightwood Ave,Female,120
+Clark St & Wrightwood Ave,Male,414
+Clifton Ave & Armitage Ave,Female,394
+Clifton Ave & Armitage Ave,Male,592
+Clifton Ave & Lawrence Ave,Female,36
+Clifton Ave & Lawrence Ave,Male,196
+Clinton St & 18th St,Female,61
+Clinton St & 18th St,Male,390
+Clinton St & Lake St,Female,1204
+Clinton St & Lake St,Male,3659
+Clinton St & Madison St,Female,1162
+Clinton St & Madison St,Male,5349
+Clinton St & Roosevelt Rd,Female,322
+Clinton St & Roosevelt Rd,Male,951
+Clinton St & Tilden St,Female,237
+Clinton St & Tilden St,Male,1347
+Clinton St & Washington Blvd,Female,1298
+Clinton St & Washington Blvd,Male,11646
+Clybourn Ave & Division St,Female,139
+Clybourn Ave & Division St,Male,786
+Columbus Dr & Randolph St,Female,664
+Columbus Dr & Randolph St,Male,3229
+Congress Pkwy & Ogden Ave,Female,182
+Congress Pkwy & Ogden Ave,Male,506
+Cottage Grove Ave & 43rd St,Female,3
+Cottage Grove Ave & 43rd St,Male,17
+Cottage Grove Ave & 47th St,Female,3
+Cottage Grove Ave & 47th St,Male,14
+Cottage Grove Ave & 51st St,Female,32
+Cottage Grove Ave & 51st St,Male,134
+Cottage Grove Ave & Oakwood Blvd,Female,19
+Cottage Grove Ave & Oakwood Blvd,Male,32
+Daley Center Plaza,Female,1199
+Daley Center Plaza,Male,4943
+Damen Ave & Augusta Blvd,Female,388
+Damen Ave & Augusta Blvd,Male,882
+Damen Ave & Charleston St,Female,80
+Damen Ave & Charleston St,Male,302
+Damen Ave & Chicago Ave,Female,441
+Damen Ave & Chicago Ave,Male,1035
+Damen Ave & Cortland Ave,Female,265
+Damen Ave & Cortland Ave,Male,591
+Damen Ave & Coulter St,Female,7
+Damen Ave & Coulter St,Male,31
+Damen Ave & Cullerton St,Female,59
+Damen Ave & Cullerton St,Male,140
+Damen Ave & Division St,Female,481
+Damen Ave & Division St,Male,1376
+Damen Ave & Grand Ave,Female,350
+Damen Ave & Grand Ave,Male,530
+Damen Ave & Leland Ave,Female,156
+Damen Ave & Leland Ave,Male,475
+Damen Ave & Madison St,Female,88
+Damen Ave & Madison St,Male,169
+Damen Ave & Melrose Ave,Female,76
+Damen Ave & Melrose Ave,Male,416
+Damen Ave & Pierce Ave,Female,748
+Damen Ave & Pierce Ave,Male,2162
+Damen Ave & Sunnyside Ave,Female,37
+Damen Ave & Sunnyside Ave,Male,156
+Damen Ave & Wellington Ave,Female,182
+Damen Ave & Wellington Ave,Male,523
+Dayton St & North Ave,Female,584
+Dayton St & North Ave,Male,1735
+Dearborn Pkwy & Delaware Pl,Female,613
+Dearborn Pkwy & Delaware Pl,Male,2210
+Dearborn St & Adams St,Female,922
+Dearborn St & Adams St,Male,4197
+Dearborn St & Monroe St,Female,885
+Dearborn St & Monroe St,Male,5101
+Desplaines St & Kinzie St,Female,765
+Desplaines St & Kinzie St,Male,3126
+Eckhart Park,Female,398
+Eckhart Park,Male,802
+Ellis Ave & 58th St,Female,75
+Ellis Ave & 58th St,Male,431
+Emerald Ave & 28th St,Female,89
+Emerald Ave & 28th St,Male,172
+Emerald Ave & 31st St,Female,56
+Emerald Ave & 31st St,Male,155
+Fairbanks Ct & Grand Ave,Female,526
+Fairbanks Ct & Grand Ave,Male,2253
+Fort Dearborn Dr & 31st St,Female,150
+Fort Dearborn Dr & 31st St,Male,456
+Franklin St & Arcade Pl,Female,435
+Franklin St & Arcade Pl,Male,2968
+Franklin St & Chicago Ave,Female,726
+Franklin St & Chicago Ave,Male,2760
+Franklin St & Jackson Blvd,Female,819
+Franklin St & Jackson Blvd,Male,5313
+Franklin St & Lake St,Female,626
+Franklin St & Lake St,Male,2988
+Franklin St & Quincy St,Female,284
+Franklin St & Quincy St,Male,1499
+Green St & Milwaukee Ave,Female,312
+Green St & Milwaukee Ave,Male,1273
+Green St & Randolph St,Female,332
+Green St & Randolph St,Male,1385
+Greenview Ave & Diversey Pkwy,Female,61
+Greenview Ave & Diversey Pkwy,Male,218
+Greenview Ave & Fullerton Ave,Female,150
+Greenview Ave & Fullerton Ave,Male,621
+Greenwood Ave & 47th St,Female,123
+Greenwood Ave & 47th St,Male,313
+Halsted St & 18th St,Female,135
+Halsted St & 18th St,Male,307
+Halsted St & 21st St,Female,45
+Halsted St & 21st St,Male,185
+Halsted St & 35th St,Female,66
+Halsted St & 35th St,Male,179
+Halsted St & 37th St,Female,3
+Halsted St & 37th St,Male,24
+Halsted St & Archer Ave,Female,63
+Halsted St & Archer Ave,Male,375
+Halsted St & Blackhawk St,Female,95
+Halsted St & Blackhawk St,Male,453
+Halsted St & Dickens Ave,Female,309
+Halsted St & Dickens Ave,Male,624
+Halsted St & Diversey Pkwy,Female,160
+Halsted St & Diversey Pkwy,Male,507
+Halsted St & James M Rochford St,Female,214
+Halsted St & James M Rochford St,Male,545
+Halsted St & Madison St,Female,320
+Halsted St & Madison St,Male,1550
+Halsted St & Maxwell St,Female,118
+Halsted St & Maxwell St,Male,314
+Halsted St & Polk St,Female,278
+Halsted St & Polk St,Male,1249
+Halsted St & Roscoe St,Female,136
+Halsted St & Roscoe St,Male,502
+Halsted St & Waveland Ave,Female,281
+Halsted St & Waveland Ave,Male,738
+Halsted St & Willow St,Female,103
+Halsted St & Willow St,Male,735
+Halsted St & Wrightwood Ave,Female,59
+Halsted St & Wrightwood Ave,Male,239
+Hampden Ct & Diversey Pkwy,Female,702
+Hampden Ct & Diversey Pkwy,Male,1553
+Hermitage Ave & Polk St,Female,224
+Hermitage Ave & Polk St,Male,564
+Indiana Ave & 26th St,Female,46
+Indiana Ave & 26th St,Male,122
+Indiana Ave & 31st St,Female,24
+Indiana Ave & 31st St,Male,136
+Indiana Ave & 40th St,Female,10
+Indiana Ave & 40th St,Male,28
+Indiana Ave & Roosevelt Rd,Female,409
+Indiana Ave & Roosevelt Rd,Male,1292
+Jefferson St & Monroe St,Female,527
+Jefferson St & Monroe St,Male,2557
+Kedzie Ave & Milwaukee Ave,Female,140
+Kedzie Ave & Milwaukee Ave,Male,449
+Kedzie Ave & Palmer Ct,Female,117
+Kedzie Ave & Palmer Ct,Male,212
+Kimbark Ave & 53rd St,Female,30
+Kimbark Ave & 53rd St,Male,246
+King Dr & 47th St,Female,24
+King Dr & 47th St,Male,30
+Kingsbury St & Erie St,Female,884
+Kingsbury St & Erie St,Male,3292
+LaSalle St & Illinois St,Female,872
+LaSalle St & Illinois St,Male,3293
+LaSalle St & Jackson Blvd,Female,295
+LaSalle St & Jackson Blvd,Male,3188
+LaSalle St & Washington St,Female,599
+LaSalle St & Washington St,Male,3638
+Lake Park Ave & 47th St,Female,28
+Lake Park Ave & 47th St,Male,46
+Lake Park Ave & 56th St,Female,45
+Lake Park Ave & 56th St,Male,132
+Lake Shore Dr & Belmont Ave,Female,125
+Lake Shore Dr & Belmont Ave,Male,419
+Lake Shore Dr & Diversey Pkwy,Female,114
+Lake Shore Dr & Diversey Pkwy,Male,355
+Lake Shore Dr & Monroe St,Female,535
+Lake Shore Dr & Monroe St,Male,1394
+Lake Shore Dr & North Blvd,Female,171
+Lake Shore Dr & North Blvd,Male,588
+Lake Shore Dr & Ohio St,Female,457
+Lake Shore Dr & Ohio St,Male,1378
+Lake Shore Dr & Wellington Ave,Female,340
+Lake Shore Dr & Wellington Ave,Male,1067
+Lakeview Ave & Fullerton Pkwy,Female,259
+Lakeview Ave & Fullerton Pkwy,Male,735
+Larrabee St & Armitage Ave,Female,93
+Larrabee St & Armitage Ave,Male,435
+Larrabee St & Kingsbury St,Female,874
+Larrabee St & Kingsbury St,Male,4012
+Larrabee St & Menomonee St,Female,266
+Larrabee St & Menomonee St,Male,900
+Larrabee St & North Ave,Female,243
+Larrabee St & North Ave,Male,435
+Larrabee St & Webster Ave,Female,411
+Larrabee St & Webster Ave,Male,1071
+Leavitt St & Armitage Ave,Female,102
+Leavitt St & Armitage Ave,Male,211
+Leavitt St & Hirsch St,Female,41
+Leavitt St & Hirsch St,Male,190
+Leavitt St & North Ave,Female,110
+Leavitt St & North Ave,Male,306
+Lincoln Ave & Addison St,Female,68
+Lincoln Ave & Addison St,Male,197
+Lincoln Ave & Armitage Ave,Female,689
+Lincoln Ave & Armitage Ave,Male,1838
+Lincoln Ave & Belle Plaine Ave,Female,84
+Lincoln Ave & Belle Plaine Ave,Male,199
+Lincoln Ave & Belmont Ave,Female,105
+Lincoln Ave & Belmont Ave,Male,280
+Lincoln Ave & Diversey Pkwy,Female,322
+Lincoln Ave & Diversey Pkwy,Male,1091
+Lincoln Ave & Eastwood Ave,Female,90
+Lincoln Ave & Eastwood Ave,Male,331
+Lincoln Ave & Fullerton Ave,Female,58
+Lincoln Ave & Fullerton Ave,Male,171
+Lincoln Ave & Leavitt St,Female,111
+Lincoln Ave & Leavitt St,Male,495
+Lincoln Ave & Roscoe St,Female,240
+Lincoln Ave & Roscoe St,Male,707
+Lincoln Ave & Waveland Ave,Female,146
+Lincoln Ave & Waveland Ave,Male,344
+Logan Blvd & Elston Ave,Female,90
+Logan Blvd & Elston Ave,Male,288
+Loomis St & Jackson Blvd,Female,56
+Loomis St & Jackson Blvd,Male,667
+Loomis St & Lexington St,Female,120
+Loomis St & Lexington St,Male,357
+Loomis St & Taylor St,Female,269
+Loomis St & Taylor St,Male,670
+Martin Luther King Dr & 29th St,Female,58
+Martin Luther King Dr & 29th St,Male,153
+Martin Luther King Dr & Oakwood Blvd,Female,90
+Martin Luther King Dr & Oakwood Blvd,Male,302
+May St & Cullerton St,Female,16
+May St & Cullerton St,Male,84
+May St & Fulton St,Female,100
+May St & Fulton St,Male,1050
+May St & Randolph St,Female,321
+May St & Randolph St,Male,1899
+May St & Taylor St,Female,145
+May St & Taylor St,Male,834
+McClurg Ct & Illinois St,Female,777
+McClurg Ct & Illinois St,Male,2611
+McCormick Place,Female,110
+McCormick Place,Male,620
+Michigan Ave & 14th St,Female,362
+Michigan Ave & 14th St,Male,1107
+Michigan Ave & 18th St,Female,225
+Michigan Ave & 18th St,Male,699
+Michigan Ave & Congress Pkwy,Female,407
+Michigan Ave & Congress Pkwy,Male,1389
+Michigan Ave & Jackson Blvd,Female,277
+Michigan Ave & Jackson Blvd,Male,971
+Michigan Ave & Lake St,Female,832
+Michigan Ave & Lake St,Male,4271
+Michigan Ave & Madison St,Female,296
+Michigan Ave & Madison St,Male,1455
+Michigan Ave & Oak St,Female,715
+Michigan Ave & Oak St,Male,2226
+Michigan Ave & Pearson St,Female,584
+Michigan Ave & Pearson St,Male,1577
+Michigan Ave & Washington St,Female,682
+Michigan Ave & Washington St,Male,2738
+Mies van der Rohe Way & Chicago Ave,Female,681
+Mies van der Rohe Way & Chicago Ave,Male,1679
+Millennium Park,Female,610
+Millennium Park,Male,2628
+Milwaukee Ave & Rockwell St,Female,49
+Milwaukee Ave & Rockwell St,Male,208
+Milwaukee Ave & Wabansia Ave,Female,204
+Milwaukee Ave & Wabansia Ave,Male,584
+Montrose Harbor,Female,218
+Montrose Harbor,Male,481
+Morgan Ave & 14th Pl,Female,325
+Morgan Ave & 14th Pl,Male,813
+Morgan St & 18th St,Female,222
+Morgan St & 18th St,Male,455
+Morgan St & 31st St,Female,29
+Morgan St & 31st St,Male,97
+Morgan St & Lake St,Female,385
+Morgan St & Lake St,Male,1728
+Morgan St & Polk St,Female,215
+Morgan St & Polk St,Male,1223
+Museum Campus,Female,481
+Museum Campus,Male,1212
+Noble St & Milwaukee Ave,Female,325
+Noble St & Milwaukee Ave,Male,1149
+Normal Ave & Archer Ave,Female,89
+Normal Ave & Archer Ave,Male,225
+Ogden Ave & Chicago Ave,Female,404
+Ogden Ave & Chicago Ave,Male,1110
+Ogden Ave & Race Ave,Female,224
+Ogden Ave & Race Ave,Male,867
+Orleans St & Elm St,Female,302
+Orleans St & Elm St,Male,817
+Orleans St & Merchandise Mart Plaza,Female,990
+Orleans St & Merchandise Mart Plaza,Male,3697
+Paulina St & 18th St,Female,84
+Paulina St & 18th St,Male,352
+Paulina St & Diversey Pkwy,Female,95
+Paulina St & Diversey Pkwy,Male,356
+Paulina St & Montrose Ave,Female,67
+Paulina St & Montrose Ave,Male,173
+Peoria St & Jackson Blvd,Female,575
+Peoria St & Jackson Blvd,Male,2336
+Pine Grove Ave & Addison St,Female,316
+Pine Grove Ave & Addison St,Male,851
+Pine Grove Ave & Irving Park Rd,Female,191
+Pine Grove Ave & Irving Park Rd,Male,705
+Prairie Ave & Garfield Blvd,Female,13
+Prairie Ave & Garfield Blvd,Male,108
+Racine Ave & 13th St,Female,78
+Racine Ave & 13th St,Male,120
+Racine Ave & 15th St,Female,93
+Racine Ave & 15th St,Male,237
+Racine Ave & 18th St,Female,297
+Racine Ave & 18th St,Male,604
+Racine Ave & Belmont Ave,Female,168
+Racine Ave & Belmont Ave,Male,511
+Racine Ave & Congress Pkwy,Female,177
+Racine Ave & Congress Pkwy,Male,949
+Racine Ave & Fullerton Ave,Female,354
+Racine Ave & Fullerton Ave,Male,994
+Racine Ave & Wrightwood Ave,Female,51
+Racine Ave & Wrightwood Ave,Male,145
+Ravenswood Ave & Berteau Ave,Female,113
+Ravenswood Ave & Berteau Ave,Male,241
+Ravenswood Ave & Irving Park Rd,Female,153
+Ravenswood Ave & Irving Park Rd,Male,495
+Ravenswood Ave & Montrose Ave,Female,122
+Ravenswood Ave & Montrose Ave,Male,400
+Rhodes Ave & 32nd St,Female,40
+Rhodes Ave & 32nd St,Male,100
+Sangamon St & Washington Blvd,Female,273
+Sangamon St & Washington Blvd,Male,979
+Sedgwick St & Huron St,Female,199
+Sedgwick St & Huron St,Male,1543
+Sedgwick St & North Ave,Female,343
+Sedgwick St & North Ave,Male,1247
+Sedgwick St & Schiller St,Female,60
+Sedgwick St & Schiller St,Male,247
+Sedgwick St & Webster Ave,Female,645
+Sedgwick St & Webster Ave,Male,1022
+Seeley Ave & Roscoe St,Female,42
+Seeley Ave & Roscoe St,Male,257
+Sheffield Ave & Addison St,Female,322
+Sheffield Ave & Addison St,Male,1179
+Sheffield Ave & Fullerton Ave,Female,736
+Sheffield Ave & Fullerton Ave,Male,2538
+Sheffield Ave & Kingsbury St,Female,491
+Sheffield Ave & Kingsbury St,Male,1170
+Sheffield Ave & Webster Ave,Female,189
+Sheffield Ave & Webster Ave,Male,530
+Sheffield Ave & Wellington Ave,Female,388
+Sheffield Ave & Wellington Ave,Male,1444
+Sheffield Ave & Willow St,Female,391
+Sheffield Ave & Willow St,Male,1201
+Sheffield Ave & Wrightwood Ave,Female,184
+Sheffield Ave & Wrightwood Ave,Male,476
+Sheridan Rd & Buena Ave,Female,56
+Sheridan Rd & Buena Ave,Male,356
+Sheridan Rd & Irving Park Rd,Female,215
+Sheridan Rd & Irving Park Rd,Male,1293
+Sheridan Rd & Lawrence Ave,Female,28
+Sheridan Rd & Lawrence Ave,Male,122
+Sheridan Rd & Montrose Ave,Female,128
+Sheridan Rd & Montrose Ave,Male,621
+Shore Drive & 55th St,Female,60
+Shore Drive & 55th St,Male,219
+Southport Ave & Belmont Ave,Female,184
+Southport Ave & Belmont Ave,Male,651
+Southport Ave & Clark St,Female,60
+Southport Ave & Clark St,Male,189
+Southport Ave & Clybourn Ave,Female,96
+Southport Ave & Clybourn Ave,Male,397
+Southport Ave & Irving Park Rd,Female,137
+Southport Ave & Irving Park Rd,Male,370
+Southport Ave & Roscoe St,Female,323
+Southport Ave & Roscoe St,Male,753
+Southport Ave & Waveland Ave,Female,324
+Southport Ave & Waveland Ave,Male,871
+Southport Ave & Wellington Ave,Female,427
+Southport Ave & Wellington Ave,Male,1566
+Southport Ave & Wrightwood Ave,Female,364
+Southport Ave & Wrightwood Ave,Male,877
+St Clair St & Erie St,Female,642
+St Clair St & Erie St,Male,1903
+State St & 16th St,Female,370
+State St & 16th St,Male,1141
+State St & 19th St,Female,118
+State St & 19th St,Male,481
+State St & 29th St,Female,8
+State St & 29th St,Male,26
+State St & 33rd St,Female,21
+State St & 33rd St,Male,311
+State St & 35th St,Female,77
+State St & 35th St,Male,214
+State St & Erie St,Female,925
+State St & Erie St,Male,2836
+State St & Harrison St,Female,580
+State St & Harrison St,Male,1918
+State St & Kinzie St,Female,782
+State St & Kinzie St,Male,3349
+State St & Pearson St,Female,247
+State St & Pearson St,Male,976
+State St & Randolph St,Female,822
+State St & Randolph St,Male,2843
+State St & Van Buren St,Female,586
+State St & Van Buren St,Male,2670
+State St & Wacker Dr,Female,317
+State St & Wacker Dr,Male,1394
+Stave St & Armitage Ave,Female,149
+Stave St & Armitage Ave,Male,255
+Stetson Ave & South Water St,Female,198
+Stetson Ave & South Water St,Male,943
+Stockton Dr & Wrightwood Ave,Female,114
+Stockton Dr & Wrightwood Ave,Male,316
+Streeter Dr & Illinois St,Female,372
+Streeter Dr & Illinois St,Male,1105
+Theater on the Lake,Female,523
+Theater on the Lake,Male,1495
+Wabash Ave & 8th St,Female,301
+Wabash Ave & 8th St,Male,886
+Wabash Ave & Cermak Rd,Female,84
+Wabash Ave & Cermak Rd,Male,506
+Wabash Ave & Grand Ave,Female,624
+Wabash Ave & Grand Ave,Male,2244
+Wabash Ave & Roosevelt Rd,Female,951
+Wabash Ave & Roosevelt Rd,Male,2401
+Wallace Ave & 35th St,Female,26
+Wallace Ave & 35th St,Male,30
+Wells St & 19th St,Female,17
+Wells St & 19th St,Male,92
+Wells St & Concord Ln,Female,501
+Wells St & Concord Ln,Male,1279
+Wells St & Erie St,Female,565
+Wells St & Erie St,Male,2903
+Wells St & Evergreen Ave,Female,245
+Wells St & Evergreen Ave,Male,678
+Wells St & Ohio St,Female,254
+Wells St & Ohio St,Male,1553
+Wells St & Polk St,Female,438
+Wells St & Polk St,Male,1324
+Wells St & Walton St,Female,521
+Wells St & Walton St,Male,1338
+Wentworth Ave & 24th St,Female,9
+Wentworth Ave & 24th St,Male,49
+Wentworth Ave & Archer Ave,Female,100
+Wentworth Ave & Archer Ave,Male,392
+Western Ave & 21st St,Female,61
+Western Ave & 21st St,Male,37
+Western Ave & 24th St,Female,5
+Western Ave & 24th St,Male,7
+Western Ave & Division St,Female,93
+Western Ave & Division St,Male,276
+Western Ave & Leland Ave,Female,132
+Western Ave & Leland Ave,Male,435
+Western Ave & Winnebago Ave,Female,161
+Western Ave & Winnebago Ave,Male,559
+Wilton Ave & Belmont Ave,Female,341
+Wilton Ave & Belmont Ave,Male,1456
+Wilton Ave & Diversey Pkwy,Female,526
+Wilton Ave & Diversey Pkwy,Male,1667
+Wolcott Ave & Lawrence Ave,Female,123
+Wolcott Ave & Lawrence Ave,Male,409
+Wolcott Ave & Polk St,Female,64
+Wolcott Ave & Polk St,Male,369
+Wood St & Division St,Female,397
+Wood St & Division St,Male,1041
+Wood St & Grand Ave,Female,89
+Wood St & Grand Ave,Male,279
+Wood St & Milwaukee Ave,Female,468
+Wood St & Milwaukee Ave,Male,966
+Wood St & North Ave,Female,290
+Wood St & North Ave,Male,573
+Wood St & Taylor St,Female,144
+Wood St & Taylor St,Male,269
+Woodlawn Ave & 55th St,Female,79
+Woodlawn Ave & 55th St,Male,351

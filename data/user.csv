@@ -1,0 +1,601 @@
+from_station_name,usertype,trips
+900 W Harrison,Customer,502
+900 W Harrison,Subscriber,1114
+Aberdeen St & Jackson Blvd,Customer,1070
+Aberdeen St & Jackson Blvd,Subscriber,1704
+Aberdeen St & Madison St,Customer,1112
+Aberdeen St & Madison St,Subscriber,3063
+Ada St & Washington Blvd,Customer,72
+Ada St & Washington Blvd,Subscriber,485
+Adler Planetarium,Customer,1016
+Adler Planetarium,Subscriber,165
+Ashland Ave & 13th St,Customer,56
+Ashland Ave & 13th St,Subscriber,116
+Ashland Ave & 21st St,Customer,67
+Ashland Ave & 21st St,Subscriber,76
+Ashland Ave & Armitage Ave,Customer,940
+Ashland Ave & Armitage Ave,Subscriber,2812
+Ashland Ave & Augusta Blvd,Customer,780
+Ashland Ave & Augusta Blvd,Subscriber,1302
+Ashland Ave & Belle Plaine Ave,Customer,198
+Ashland Ave & Belle Plaine Ave,Subscriber,338
+Ashland Ave & Blackhawk St,Customer,144
+Ashland Ave & Blackhawk St,Subscriber,348
+Ashland Ave & Chicago Ave,Customer,537
+Ashland Ave & Chicago Ave,Subscriber,498
+Ashland Ave & Division St,Customer,1017
+Ashland Ave & Division St,Subscriber,1754
+Ashland Ave & Grace St,Customer,61
+Ashland Ave & Grace St,Subscriber,183
+Ashland Ave & Grand Ave,Customer,191
+Ashland Ave & Grand Ave,Subscriber,292
+Ashland Ave & Lake St,Customer,370
+Ashland Ave & Lake St,Subscriber,507
+Ashland Ave & Wellington Ave,Customer,906
+Ashland Ave & Wellington Ave,Subscriber,446
+Ashland Ave & Wrightwood Ave,Customer,531
+Ashland Ave & Wrightwood Ave,Subscriber,574
+Bissell St & Armitage Ave,Customer,470
+Bissell St & Armitage Ave,Subscriber,1128
+Blackstone Ave & Hyde Park Blvd,Customer,447
+Blackstone Ave & Hyde Park Blvd,Subscriber,409
+Blue Island Ave & 18th St,Customer,445
+Blue Island Ave & 18th St,Subscriber,717
+Broadway & Argyle St,Customer,226
+Broadway & Argyle St,Subscriber,222
+Broadway & Barry Ave,Customer,593
+Broadway & Barry Ave,Subscriber,1004
+Broadway & Belmont Ave,Customer,340
+Broadway & Belmont Ave,Subscriber,600
+Broadway & Berwyn Ave,Customer,362
+Broadway & Berwyn Ave,Subscriber,293
+Broadway & Cornelia Ave,Customer,508
+Broadway & Cornelia Ave,Subscriber,632
+Broadway & Sheridan Rd,Customer,423
+Broadway & Sheridan Rd,Subscriber,383
+Broadway & Wilson Ave,Customer,136
+Broadway & Wilson Ave,Subscriber,360
+California Ave & 21st St,Customer,220
+California Ave & 21st St,Subscriber,61
+California Ave & Division St,Customer,494
+California Ave & Division St,Subscriber,486
+California Ave & Francis Pl,Customer,170
+California Ave & Francis Pl,Subscriber,357
+California Ave & Milwaukee Ave,Customer,1332
+California Ave & Milwaukee Ave,Subscriber,1398
+California Ave & North Ave,Customer,169
+California Ave & North Ave,Subscriber,407
+Calumet Ave & 18th St,Customer,656
+Calumet Ave & 18th St,Subscriber,676
+Calumet Ave & 33rd St,Customer,466
+Calumet Ave & 33rd St,Subscriber,298
+Calumet Ave & 35th St,Customer,8
+Calumet Ave & 35th St,Subscriber,25
+Campbell Ave & North Ave,Customer,423
+Campbell Ave & North Ave,Subscriber,283
+Canal St & Adams St,Customer,1219
+Canal St & Adams St,Subscriber,5216
+Canal St & Harrison St,Customer,485
+Canal St & Harrison St,Subscriber,948
+Canal St & Jackson Blvd,Customer,2009
+Canal St & Jackson Blvd,Subscriber,8132
+Canal St & Madison St,Customer,1430
+Canal St & Madison St,Subscriber,6598
+Canal St & Monroe St,Customer,826
+Canal St & Monroe St,Subscriber,3364
+Cannon Dr & Fullerton Ave,Customer,5087
+Cannon Dr & Fullerton Ave,Subscriber,1095
+Carpenter St & Huron St,Customer,477
+Carpenter St & Huron St,Subscriber,1075
+Cityfront Plaza & N Water St,Customer,1447
+Cityfront Plaza & N Water St,Subscriber,1811
+Claremont Ave & Hirsch St,Customer,181
+Claremont Ave & Hirsch St,Subscriber,434
+Clarendon Ave & Gordon Ter,Customer,104
+Clarendon Ave & Gordon Ter,Subscriber,114
+Clarendon Ave & Junior Ter,Customer,415
+Clarendon Ave & Junior Ter,Subscriber,635
+Clarendon Ave & Leland Ave,Customer,669
+Clarendon Ave & Leland Ave,Subscriber,314
+Clark St & Chicago Ave,Customer,430
+Clark St & Chicago Ave,Subscriber,615
+Clark St & Congress Pkwy,Customer,1207
+Clark St & Congress Pkwy,Subscriber,3848
+Clark St & Elm St,Customer,2611
+Clark St & Elm St,Subscriber,3235
+Clark St & Leland Ave,Customer,103
+Clark St & Leland Ave,Subscriber,385
+Clark St & Lincoln Ave,Customer,2901
+Clark St & Lincoln Ave,Subscriber,1963
+Clark St & Montrose Ave,Customer,415
+Clark St & Montrose Ave,Subscriber,499
+Clark St & North Ave,Customer,4695
+Clark St & North Ave,Subscriber,1992
+Clark St & Randolph St,Customer,2265
+Clark St & Randolph St,Subscriber,5015
+Clark St & Schiller St,Customer,573
+Clark St & Schiller St,Subscriber,1192
+Clark St & Waveland Ave,Customer,1605
+Clark St & Waveland Ave,Subscriber,887
+Clark St & Wellington Ave,Customer,1321
+Clark St & Wellington Ave,Subscriber,1759
+Clark St & Winnemac Ave,Customer,281
+Clark St & Winnemac Ave,Subscriber,522
+Clark St & Wrightwood Ave,Customer,244
+Clark St & Wrightwood Ave,Subscriber,534
+Clifton Ave & Armitage Ave,Customer,716
+Clifton Ave & Armitage Ave,Subscriber,986
+Clifton Ave & Lawrence Ave,Customer,232
+Clifton Ave & Lawrence Ave,Subscriber,232
+Clinton St & 18th St,Customer,267
+Clinton St & 18th St,Subscriber,451
+Clinton St & Lake St,Customer,1464
+Clinton St & Lake St,Subscriber,4863
+Clinton St & Madison St,Customer,1816
+Clinton St & Madison St,Subscriber,6511
+Clinton St & Roosevelt Rd,Customer,1056
+Clinton St & Roosevelt Rd,Subscriber,1273
+Clinton St & Tilden St,Customer,665
+Clinton St & Tilden St,Subscriber,1584
+Clinton St & Washington Blvd,Customer,2021
+Clinton St & Washington Blvd,Subscriber,12946
+Clybourn Ave & Division St,Customer,468
+Clybourn Ave & Division St,Subscriber,925
+Columbus Dr & Randolph St,Customer,2295
+Columbus Dr & Randolph St,Subscriber,3893
+Congress Pkwy & Ogden Ave,Customer,274
+Congress Pkwy & Ogden Ave,Subscriber,688
+Cottage Grove Ave & 43rd St,Customer,42
+Cottage Grove Ave & 43rd St,Subscriber,20
+Cottage Grove Ave & 47th St,Customer,19
+Cottage Grove Ave & 47th St,Subscriber,17
+Cottage Grove Ave & 51st St,Customer,129
+Cottage Grove Ave & 51st St,Subscriber,166
+Cottage Grove Ave & Oakwood Blvd,Customer,141
+Cottage Grove Ave & Oakwood Blvd,Subscriber,51
+Daley Center Plaza,Customer,2669
+Daley Center Plaza,Subscriber,6141
+Damen Ave & Augusta Blvd,Customer,842
+Damen Ave & Augusta Blvd,Subscriber,1270
+Damen Ave & Charleston St,Customer,227
+Damen Ave & Charleston St,Subscriber,382
+Damen Ave & Chicago Ave,Customer,1069
+Damen Ave & Chicago Ave,Subscriber,1476
+Damen Ave & Cortland Ave,Customer,814
+Damen Ave & Cortland Ave,Subscriber,856
+Damen Ave & Coulter St,Customer,62
+Damen Ave & Coulter St,Subscriber,38
+Damen Ave & Cullerton St,Customer,168
+Damen Ave & Cullerton St,Subscriber,199
+Damen Ave & Division St,Customer,1330
+Damen Ave & Division St,Subscriber,1857
+Damen Ave & Grand Ave,Customer,436
+Damen Ave & Grand Ave,Subscriber,880
+Damen Ave & Leland Ave,Customer,439
+Damen Ave & Leland Ave,Subscriber,631
+Damen Ave & Madison St,Customer,383
+Damen Ave & Madison St,Subscriber,257
+Damen Ave & Melrose Ave,Customer,400
+Damen Ave & Melrose Ave,Subscriber,492
+Damen Ave & Pierce Ave,Customer,2491
+Damen Ave & Pierce Ave,Subscriber,2910
+Damen Ave & Sunnyside Ave,Customer,83
+Damen Ave & Sunnyside Ave,Subscriber,193
+Damen Ave & Wellington Ave,Customer,535
+Damen Ave & Wellington Ave,Subscriber,705
+Dayton St & North Ave,Customer,1735
+Dayton St & North Ave,Subscriber,2319
+Dearborn Pkwy & Delaware Pl,Customer,2130
+Dearborn Pkwy & Delaware Pl,Subscriber,2823
+Dearborn St & Adams St,Customer,2993
+Dearborn St & Adams St,Subscriber,5119
+Dearborn St & Monroe St,Customer,2003
+Dearborn St & Monroe St,Subscriber,5986
+Desplaines St & Kinzie St,Customer,1989
+Desplaines St & Kinzie St,Subscriber,3890
+Eckhart Park,Customer,729
+Eckhart Park,Subscriber,1200
+Ellis Ave & 58th St,Customer,745
+Ellis Ave & 58th St,Subscriber,506
+Emerald Ave & 28th St,Customer,155
+Emerald Ave & 28th St,Subscriber,261
+Emerald Ave & 31st St,Customer,45
+Emerald Ave & 31st St,Subscriber,211
+Fairbanks Ct & Grand Ave,Customer,4091
+Fairbanks Ct & Grand Ave,Subscriber,2779
+Fort Dearborn Dr & 31st St,Customer,2858
+Fort Dearborn Dr & 31st St,Subscriber,606
+Franklin St & Arcade Pl,Customer,639
+Franklin St & Arcade Pl,Subscriber,3403
+Franklin St & Chicago Ave,Customer,1714
+Franklin St & Chicago Ave,Subscriber,3486
+Franklin St & Jackson Blvd,Customer,3653
+Franklin St & Jackson Blvd,Subscriber,6131
+Franklin St & Lake St,Customer,1191
+Franklin St & Lake St,Subscriber,3614
+Franklin St & Quincy St,Customer,403
+Franklin St & Quincy St,Subscriber,1783
+Green St & Milwaukee Ave,Customer,653
+Green St & Milwaukee Ave,Subscriber,1585
+Green St & Randolph St,Customer,1010
+Green St & Randolph St,Subscriber,1717
+Greenview Ave & Diversey Pkwy,Customer,264
+Greenview Ave & Diversey Pkwy,Subscriber,279
+Greenview Ave & Fullerton Ave,Customer,600
+Greenview Ave & Fullerton Ave,Subscriber,771
+Greenwood Ave & 47th St,Customer,386
+Greenwood Ave & 47th St,Subscriber,435
+Halsted St & 18th St,Customer,284
+Halsted St & 18th St,Subscriber,442
+Halsted St & 21st St,Customer,288
+Halsted St & 21st St,Subscriber,230
+Halsted St & 35th St,Customer,756
+Halsted St & 35th St,Subscriber,245
+Halsted St & 37th St,Customer,73
+Halsted St & 37th St,Subscriber,27
+Halsted St & Archer Ave,Customer,256
+Halsted St & Archer Ave,Subscriber,438
+Halsted St & Blackhawk St,Customer,210
+Halsted St & Blackhawk St,Subscriber,548
+Halsted St & Dickens Ave,Customer,703
+Halsted St & Dickens Ave,Subscriber,933
+Halsted St & Diversey Pkwy,Customer,320
+Halsted St & Diversey Pkwy,Subscriber,667
+Halsted St & James M Rochford St,Customer,1045
+Halsted St & James M Rochford St,Subscriber,759
+Halsted St & Madison St,Customer,979
+Halsted St & Madison St,Subscriber,1870
+Halsted St & Maxwell St,Customer,226
+Halsted St & Maxwell St,Subscriber,432
+Halsted St & Polk St,Customer,557
+Halsted St & Polk St,Subscriber,1527
+Halsted St & Roscoe St,Customer,254
+Halsted St & Roscoe St,Subscriber,638
+Halsted St & Waveland Ave,Customer,383
+Halsted St & Waveland Ave,Subscriber,1019
+Halsted St & Willow St,Customer,444
+Halsted St & Willow St,Subscriber,838
+Halsted St & Wrightwood Ave,Customer,150
+Halsted St & Wrightwood Ave,Subscriber,298
+Hampden Ct & Diversey Pkwy,Customer,2099
+Hampden Ct & Diversey Pkwy,Subscriber,2255
+Hermitage Ave & Polk St,Customer,164
+Hermitage Ave & Polk St,Subscriber,788
+Indiana Ave & 26th St,Customer,565
+Indiana Ave & 26th St,Subscriber,168
+Indiana Ave & 31st St,Customer,89
+Indiana Ave & 31st St,Subscriber,160
+Indiana Ave & 40th St,Customer,84
+Indiana Ave & 40th St,Subscriber,38
+Indiana Ave & Roosevelt Rd,Customer,2203
+Indiana Ave & Roosevelt Rd,Subscriber,1701
+Jefferson St & Monroe St,Customer,1199
+Jefferson St & Monroe St,Subscriber,3086
+Kedzie Ave & Milwaukee Ave,Customer,345
+Kedzie Ave & Milwaukee Ave,Subscriber,589
+Kedzie Ave & Palmer Ct,Customer,121
+Kedzie Ave & Palmer Ct,Subscriber,329
+Kimbark Ave & 53rd St,Customer,239
+Kimbark Ave & 53rd St,Subscriber,276
+King Dr & 47th St,Customer,162
+King Dr & 47th St,Subscriber,54
+Kingsbury St & Erie St,Customer,1801
+Kingsbury St & Erie St,Subscriber,4176
+LaSalle St & Illinois St,Customer,2241
+LaSalle St & Illinois St,Subscriber,4165
+LaSalle St & Jackson Blvd,Customer,643
+LaSalle St & Jackson Blvd,Subscriber,3483
+LaSalle St & Washington St,Customer,889
+LaSalle St & Washington St,Subscriber,4237
+Lake Park Ave & 47th St,Customer,221
+Lake Park Ave & 47th St,Subscriber,74
+Lake Park Ave & 56th St,Customer,87
+Lake Park Ave & 56th St,Subscriber,177
+Lake Shore Dr & Belmont Ave,Customer,641
+Lake Shore Dr & Belmont Ave,Subscriber,544
+Lake Shore Dr & Diversey Pkwy,Customer,387
+Lake Shore Dr & Diversey Pkwy,Subscriber,469
+Lake Shore Dr & Monroe St,Customer,13748
+Lake Shore Dr & Monroe St,Subscriber,1925
+Lake Shore Dr & North Blvd,Customer,2225
+Lake Shore Dr & North Blvd,Subscriber,759
+Lake Shore Dr & Ohio St,Customer,5072
+Lake Shore Dr & Ohio St,Subscriber,1835
+Lake Shore Dr & Wellington Ave,Customer,2940
+Lake Shore Dr & Wellington Ave,Subscriber,1407
+Lakeview Ave & Fullerton Pkwy,Customer,977
+Lakeview Ave & Fullerton Pkwy,Subscriber,994
+Larrabee St & Armitage Ave,Customer,267
+Larrabee St & Armitage Ave,Subscriber,528
+Larrabee St & Kingsbury St,Customer,1468
+Larrabee St & Kingsbury St,Subscriber,4886
+Larrabee St & Menomonee St,Customer,912
+Larrabee St & Menomonee St,Subscriber,1166
+Larrabee St & North Ave,Customer,742
+Larrabee St & North Ave,Subscriber,678
+Larrabee St & Webster Ave,Customer,1742
+Larrabee St & Webster Ave,Subscriber,1482
+Leavitt St & Armitage Ave,Customer,192
+Leavitt St & Armitage Ave,Subscriber,313
+Leavitt St & Hirsch St,Customer,68
+Leavitt St & Hirsch St,Subscriber,231
+Leavitt St & North Ave,Customer,331
+Leavitt St & North Ave,Subscriber,416
+Lincoln Ave & Addison St,Customer,134
+Lincoln Ave & Addison St,Subscriber,265
+Lincoln Ave & Armitage Ave,Customer,3567
+Lincoln Ave & Armitage Ave,Subscriber,2526
+Lincoln Ave & Belle Plaine Ave,Customer,131
+Lincoln Ave & Belle Plaine Ave,Subscriber,283
+Lincoln Ave & Belmont Ave,Customer,205
+Lincoln Ave & Belmont Ave,Subscriber,385
+Lincoln Ave & Diversey Pkwy,Customer,761
+Lincoln Ave & Diversey Pkwy,Subscriber,1413
+Lincoln Ave & Eastwood Ave,Customer,475
+Lincoln Ave & Eastwood Ave,Subscriber,421
+Lincoln Ave & Fullerton Ave,Customer,122
+Lincoln Ave & Fullerton Ave,Subscriber,229
+Lincoln Ave & Leavitt St,Customer,398
+Lincoln Ave & Leavitt St,Subscriber,606
+Lincoln Ave & Roscoe St,Customer,714
+Lincoln Ave & Roscoe St,Subscriber,947
+Lincoln Ave & Waveland Ave,Customer,220
+Lincoln Ave & Waveland Ave,Subscriber,490
+Logan Blvd & Elston Ave,Customer,267
+Logan Blvd & Elston Ave,Subscriber,378
+Loomis St & Jackson Blvd,Customer,262
+Loomis St & Jackson Blvd,Subscriber,723
+Loomis St & Lexington St,Customer,150
+Loomis St & Lexington St,Subscriber,477
+Loomis St & Taylor St,Customer,906
+Loomis St & Taylor St,Subscriber,939
+Martin Luther King Dr & 29th St,Customer,454
+Martin Luther King Dr & 29th St,Subscriber,211
+Martin Luther King Dr & Oakwood Blvd,Customer,341
+Martin Luther King Dr & Oakwood Blvd,Subscriber,392
+May St & Cullerton St,Customer,106
+May St & Cullerton St,Subscriber,100
+May St & Fulton St,Customer,259
+May St & Fulton St,Subscriber,1150
+May St & Randolph St,Customer,833
+May St & Randolph St,Subscriber,2220
+May St & Taylor St,Customer,1233
+May St & Taylor St,Subscriber,982
+McClurg Ct & Illinois St,Customer,7459
+McClurg Ct & Illinois St,Subscriber,3388
+McCormick Place,Customer,3335
+McCormick Place,Subscriber,730
+Michigan Ave & 14th St,Customer,1406
+Michigan Ave & 14th St,Subscriber,1469
+Michigan Ave & 18th St,Customer,622
+Michigan Ave & 18th St,Subscriber,924
+Michigan Ave & Congress Pkwy,Customer,4678
+Michigan Ave & Congress Pkwy,Subscriber,1796
+Michigan Ave & Jackson Blvd,Customer,1720
+Michigan Ave & Jackson Blvd,Subscriber,1248
+Michigan Ave & Lake St,Customer,5657
+Michigan Ave & Lake St,Subscriber,5103
+Michigan Ave & Madison St,Customer,1513
+Michigan Ave & Madison St,Subscriber,1751
+Michigan Ave & Oak St,Customer,10333
+Michigan Ave & Oak St,Subscriber,2941
+Michigan Ave & Pearson St,Customer,6328
+Michigan Ave & Pearson St,Subscriber,2159
+Michigan Ave & Washington St,Customer,5209
+Michigan Ave & Washington St,Subscriber,3420
+Mies van der Rohe Way & Chicago Ave,Customer,2913
+Mies van der Rohe Way & Chicago Ave,Subscriber,2362
+Millennium Park,Customer,14034
+Millennium Park,Subscriber,3238
+Milwaukee Ave & Rockwell St,Customer,246
+Milwaukee Ave & Rockwell St,Subscriber,257
+Milwaukee Ave & Wabansia Ave,Customer,768
+Milwaukee Ave & Wabansia Ave,Subscriber,788
+Montrose Harbor,Customer,1765
+Montrose Harbor,Subscriber,699
+Morgan Ave & 14th Pl,Customer,399
+Morgan Ave & 14th Pl,Subscriber,1138
+Morgan St & 18th St,Customer,844
+Morgan St & 18th St,Subscriber,677
+Morgan St & 31st St,Customer,132
+Morgan St & 31st St,Subscriber,126
+Morgan St & Lake St,Customer,930
+Morgan St & Lake St,Subscriber,2113
+Morgan St & Polk St,Customer,311
+Morgan St & Polk St,Subscriber,1438
+Museum Campus,Customer,10983
+Museum Campus,Subscriber,1693
+Noble St & Milwaukee Ave,Customer,1198
+Noble St & Milwaukee Ave,Subscriber,1474
+Normal Ave & Archer Ave,Customer,111
+Normal Ave & Archer Ave,Subscriber,314
+Ogden Ave & Chicago Ave,Customer,1045
+Ogden Ave & Chicago Ave,Subscriber,1516
+Ogden Ave & Race Ave,Customer,489
+Ogden Ave & Race Ave,Subscriber,1091
+Orleans St & Elm St,Customer,888
+Orleans St & Elm St,Subscriber,1119
+Orleans St & Merchandise Mart Plaza,Customer,1447
+Orleans St & Merchandise Mart Plaza,Subscriber,4687
+Paulina St & 18th St,Customer,183
+Paulina St & 18th St,Subscriber,436
+Paulina St & Diversey Pkwy,Customer,311
+Paulina St & Diversey Pkwy,Subscriber,451
+Paulina St & Montrose Ave,Customer,89
+Paulina St & Montrose Ave,Subscriber,240
+Peoria St & Jackson Blvd,Customer,892
+Peoria St & Jackson Blvd,Subscriber,2909
+Pine Grove Ave & Addison St,Customer,1577
+Pine Grove Ave & Addison St,Subscriber,1167
+Pine Grove Ave & Irving Park Rd,Customer,496
+Pine Grove Ave & Irving Park Rd,Subscriber,896
+Prairie Ave & Garfield Blvd,Customer,118
+Prairie Ave & Garfield Blvd,Subscriber,121
+Racine Ave & 13th St,Customer,66
+Racine Ave & 13th St,Subscriber,198
+Racine Ave & 15th St,Customer,76
+Racine Ave & 15th St,Subscriber,330
+Racine Ave & 18th St,Customer,788
+Racine Ave & 18th St,Subscriber,901
+Racine Ave & Belmont Ave,Customer,664
+Racine Ave & Belmont Ave,Subscriber,679
+Racine Ave & Congress Pkwy,Customer,725
+Racine Ave & Congress Pkwy,Subscriber,1126
+Racine Ave & Fullerton Ave,Customer,1150
+Racine Ave & Fullerton Ave,Subscriber,1348
+Racine Ave & Wrightwood Ave,Customer,33
+Racine Ave & Wrightwood Ave,Subscriber,196
+Ravenswood Ave & Berteau Ave,Customer,93
+Ravenswood Ave & Berteau Ave,Subscriber,354
+Ravenswood Ave & Irving Park Rd,Customer,359
+Ravenswood Ave & Irving Park Rd,Subscriber,648
+Ravenswood Ave & Montrose Ave,Customer,310
+Ravenswood Ave & Montrose Ave,Subscriber,522
+Rhodes Ave & 32nd St,Customer,122
+Rhodes Ave & 32nd St,Subscriber,140
+Sangamon St & Washington Blvd,Customer,545
+Sangamon St & Washington Blvd,Subscriber,1252
+Sedgwick St & Huron St,Customer,533
+Sedgwick St & Huron St,Subscriber,1742
+Sedgwick St & North Ave,Customer,1465
+Sedgwick St & North Ave,Subscriber,1590
+Sedgwick St & Schiller St,Customer,269
+Sedgwick St & Schiller St,Subscriber,307
+Sedgwick St & Webster Ave,Customer,2269
+Sedgwick St & Webster Ave,Subscriber,1667
+Seeley Ave & Roscoe St,Customer,135
+Seeley Ave & Roscoe St,Subscriber,299
+Sheffield Ave & Addison St,Customer,1714
+Sheffield Ave & Addison St,Subscriber,1501
+Sheffield Ave & Fullerton Ave,Customer,2688
+Sheffield Ave & Fullerton Ave,Subscriber,3274
+Sheffield Ave & Kingsbury St,Customer,1086
+Sheffield Ave & Kingsbury St,Subscriber,1661
+Sheffield Ave & Webster Ave,Customer,324
+Sheffield Ave & Webster Ave,Subscriber,719
+Sheffield Ave & Wellington Ave,Customer,1608
+Sheffield Ave & Wellington Ave,Subscriber,1832
+Sheffield Ave & Willow St,Customer,1083
+Sheffield Ave & Willow St,Subscriber,1592
+Sheffield Ave & Wrightwood Ave,Customer,387
+Sheffield Ave & Wrightwood Ave,Subscriber,660
+Sheridan Rd & Buena Ave,Customer,248
+Sheridan Rd & Buena Ave,Subscriber,412
+Sheridan Rd & Irving Park Rd,Customer,881
+Sheridan Rd & Irving Park Rd,Subscriber,1508
+Sheridan Rd & Lawrence Ave,Customer,183
+Sheridan Rd & Lawrence Ave,Subscriber,150
+Sheridan Rd & Montrose Ave,Customer,1075
+Sheridan Rd & Montrose Ave,Subscriber,749
+Shore Drive & 55th St,Customer,848
+Shore Drive & 55th St,Subscriber,279
+Southport Ave & Belmont Ave,Customer,991
+Southport Ave & Belmont Ave,Subscriber,835
+Southport Ave & Clark St,Customer,107
+Southport Ave & Clark St,Subscriber,249
+Southport Ave & Clybourn Ave,Customer,250
+Southport Ave & Clybourn Ave,Subscriber,493
+Southport Ave & Irving Park Rd,Customer,218
+Southport Ave & Irving Park Rd,Subscriber,507
+Southport Ave & Roscoe St,Customer,850
+Southport Ave & Roscoe St,Subscriber,1076
+Southport Ave & Waveland Ave,Customer,816
+Southport Ave & Waveland Ave,Subscriber,1195
+Southport Ave & Wellington Ave,Customer,1204
+Southport Ave & Wellington Ave,Subscriber,1993
+Southport Ave & Wrightwood Ave,Customer,746
+Southport Ave & Wrightwood Ave,Subscriber,1241
+St Clair St & Erie St,Customer,1931
+St Clair St & Erie St,Subscriber,2545
+State St & 16th St,Customer,1335
+State St & 16th St,Subscriber,1511
+State St & 19th St,Customer,691
+State St & 19th St,Subscriber,599
+State St & 29th St,Customer,115
+State St & 29th St,Subscriber,34
+State St & 33rd St,Customer,252
+State St & 33rd St,Subscriber,332
+State St & 35th St,Customer,449
+State St & 35th St,Subscriber,291
+State St & Erie St,Customer,2468
+State St & Erie St,Subscriber,3761
+State St & Harrison St,Customer,2532
+State St & Harrison St,Subscriber,2498
+State St & Kinzie St,Customer,3799
+State St & Kinzie St,Subscriber,4131
+State St & Pearson St,Customer,1168
+State St & Pearson St,Subscriber,1223
+State St & Randolph St,Customer,3214
+State St & Randolph St,Subscriber,3665
+State St & Van Buren St,Customer,2727
+State St & Van Buren St,Subscriber,3256
+State St & Wacker Dr,Customer,2078
+State St & Wacker Dr,Subscriber,1711
+Stave St & Armitage Ave,Customer,351
+Stave St & Armitage Ave,Subscriber,404
+Stetson Ave & South Water St,Customer,628
+Stetson Ave & South Water St,Subscriber,1141
+Stockton Dr & Wrightwood Ave,Customer,304
+Stockton Dr & Wrightwood Ave,Subscriber,430
+Streeter Dr & Illinois St,Customer,15235
+Streeter Dr & Illinois St,Subscriber,1475
+Theater on the Lake,Customer,7065
+Theater on the Lake,Subscriber,2017
+Wabash Ave & 8th St,Customer,701
+Wabash Ave & 8th St,Subscriber,1187
+Wabash Ave & Cermak Rd,Customer,1225
+Wabash Ave & Cermak Rd,Subscriber,590
+Wabash Ave & Grand Ave,Customer,2990
+Wabash Ave & Grand Ave,Subscriber,2868
+Wabash Ave & Roosevelt Rd,Customer,4710
+Wabash Ave & Roosevelt Rd,Subscriber,3349
+Wallace Ave & 35th St,Customer,77
+Wallace Ave & 35th St,Subscriber,56
+Wells St & 19th St,Customer,251
+Wells St & 19th St,Subscriber,109
+Wells St & Concord Ln,Customer,882
+Wells St & Concord Ln,Subscriber,1780
+Wells St & Erie St,Customer,2450
+Wells St & Erie St,Subscriber,3468
+Wells St & Evergreen Ave,Customer,735
+Wells St & Evergreen Ave,Subscriber,923
+Wells St & Ohio St,Customer,951
+Wells St & Ohio St,Subscriber,1808
+Wells St & Polk St,Customer,703
+Wells St & Polk St,Subscriber,1762
+Wells St & Walton St,Customer,1429
+Wells St & Walton St,Subscriber,1859
+Wentworth Ave & 24th St,Customer,99
+Wentworth Ave & 24th St,Subscriber,58
+Wentworth Ave & Archer Ave,Customer,810
+Wentworth Ave & Archer Ave,Subscriber,492
+Western Ave & 21st St,Customer,120
+Western Ave & 21st St,Subscriber,98
+Western Ave & 24th St,Customer,26
+Western Ave & 24th St,Subscriber,12
+Western Ave & Division St,Customer,213
+Western Ave & Division St,Subscriber,369
+Western Ave & Leland Ave,Customer,403
+Western Ave & Leland Ave,Subscriber,567
+Western Ave & Winnebago Ave,Customer,432
+Western Ave & Winnebago Ave,Subscriber,720
+Wilton Ave & Belmont Ave,Customer,854
+Wilton Ave & Belmont Ave,Subscriber,1797
+Wilton Ave & Diversey Pkwy,Customer,1512
+Wilton Ave & Diversey Pkwy,Subscriber,2193
+Wolcott Ave & Lawrence Ave,Customer,76
+Wolcott Ave & Lawrence Ave,Subscriber,532
+Wolcott Ave & Polk St,Customer,48
+Wolcott Ave & Polk St,Subscriber,433
+Wood St & Division St,Customer,1312
+Wood St & Division St,Subscriber,1438
+Wood St & Grand Ave,Customer,199
+Wood St & Grand Ave,Subscriber,368
+Wood St & Milwaukee Ave,Customer,1170
+Wood St & Milwaukee Ave,Subscriber,1434
+Wood St & North Ave,Customer,874
+Wood St & North Ave,Subscriber,863
+Wood St & Taylor St,Customer,77
+Wood St & Taylor St,Subscriber,413
+Woodlawn Ave & 55th St,Customer,416
+Woodlawn Ave & 55th St,Subscriber,430

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Divvy Data Challenge - Ben Van Dyke</title>
+
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.css' rel='stylesheet' />
+<script src="js/d3.v3.min.js" charset="utf-8"></script>
+<script src="js/jquery-1.11.0.min.js"></script>
+
+<script src="js/divvy.js"></script>
+
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<style>
+  #map {height: 800px;}
+  #sidebar {height: 800px;}
+  
+  .bar {
+  fill: steelblue;
+}
+
+.arc path {
+  stroke: #fff;
+}
+  
+  .axis path,
+  .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+  }
+  
+  .x.axis path {
+      display: none;
+  }
+  
+  .line {
+      fill: none;
+      stroke: steelblue;
+      stroke-width: 3.0px;
+  }
+  
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-6">
+      <h4>Divvy Data Challenge Visualization</h4>
+    </div>
+    <div class="col-md-6">
+       <h5> Created by Ben Van Dyke. Hover over a station to begin. See all the code and more in the GitHub <a href="https://github.com/benvandyke/divvy-challenge">repo</a>.</h5>
+    </div>
+
+</div>
+
+  <div class="row">
+    <div class="col-md-6">
+      <div id="map">
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div "class=sidebar">
+	<h3 id="station-select">Total Divvy System</h3>
+	<table class="table table-condensed">
+	  <thead>
+	    <tr>
+	      <th></th>
+	      <th>Metric</th>
+	      <th>System Rank</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <th>Daily Trips</th>
+	      <td id="daily-trips"></td>
+	      <td id="daily-trips-rank"></td>
+	    </tr>
+	    <tr>
+	      <th>Median Trip Duration</th>
+	      <td id="duration"></td>
+	      <td id="duration-ranks"></td>
+	    </tr>
+	    <tr>
+	      <th>Median Trip Distance</th>
+	      <td id="distance"></td>
+	      <td id="distance-ranks"></td>
+	    </tr>
+	    <tr>
+	      <th>Median Subscriber Age</th>
+	      <td id="subscriber-age"></td>
+	      <td id="subscriber-age-ranks"></td>
+	    </tr>
+
+	  </tbody>
+	</table>
+
+	<div id="monthly-bar-chart">
+	</div>
+
+	<div id="hourly-line-chart">
+	</div>
+	<div id="donut-charts">
+	  <div class="row">
+	    <div class="col-md-6">
+	      <div id="user-chart">
+	      </div>
+	    </div>
+	  <div class="col-md-6">
+	    <div id="gender-chart">
+	    </div>
+	  </div>
+	</div>
+	
+	<!--
+	<div>
+	  <h3>Top 5 Destination Stations</h3>
+	  <table class="table table-condensed" id="dest-table">
+	    <thead id="dest-head">
+	      <tr>
+		<th>Station</th>
+		<th>Daily Trips</th>
+	      </tr>
+	    </thead>
+	    <tbody id="dest-body">
+	    </tbody>
+	  </table>
+	</div>
+	-->
+      </div>
+    </div>
+  </div>
+</div>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

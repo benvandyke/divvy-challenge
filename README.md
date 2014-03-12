@@ -11,7 +11,7 @@ I constructed the visualization using [D3.js](http://d3js.org/) for the interact
 Analysis
 --------
 
-Analysis and preparation of the data was completed using Python and the pandas library. In the notebooks directory of this repository, you'll find several IPython notebooks that show the code used to generate the CSV files used in the visualization and some of the observations below.
+Analysis and preparation of the data was completed using Python and the [pandas](http://pandas.pydata.org/) library. In the notebooks directory of this repository, you'll find several IPython [notebooks](http://ipython.org/notebook) that show the code used to generate the CSV files used in the visualization and some of the observations below.
 
 Observations
 ------------
@@ -24,6 +24,10 @@ In my exploration of the dataset, I discovered some interesting facts about how 
 * Longest trip: 19 miles, from Lincoln and Eastwood to 55th and Shore Dr in an impressive 41 minutes
 * Trip Duration 75th percentile: 22.5 minutes, well under the 30 minute time limit
 
+Next
+----
+
+I've only scratched the surface of this extremely rich dataset. I'd love to spend more time working with it or discuss further, send me a message or submit a pull request if you have any other ideas or want to contribute.
 
 
 
