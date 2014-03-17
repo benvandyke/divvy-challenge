@@ -11,7 +11,7 @@ I constructed the visualization using [D3.js](http://d3js.org/) for the interact
 Analysis
 --------
 
-Analysis and preparation of the data was completed using Python and the [pandas](http://pandas.pydata.org/) library. In the notebooks directory of this repository, you'll find several IPython [notebooks](http://ipython.org/notebook) that show the code used to generate the CSV files used in the visualization and some of the observations below.
+Analysis and preparation of the data was completed using Python and the [pandas](http://pandas.pydata.org/) library. In the notebooks directory of this repository, you'll find several IPython [notebooks](http://ipython.org/notebook) that show the code used to generate the CSV files used in the visualization and some of the observations below. To use the IPython notebooks, download this repository and a copy of the Divvy [data](https://divvybikes.com/datachallenge) which is larger than the recommended filesize on GitHub. Place unzipped Divvy directory into the data directory, and then launch an IPython notebook instance from inside the notebooks directory.
 
 Observations
 ------------
